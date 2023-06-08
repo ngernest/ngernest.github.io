@@ -50,9 +50,7 @@ as presented in *Practical Type Inference for Arbitrary-Rank Types* (Peyton Jone
 ********************************************************************************
 ## [Other programming projects](#others)
 ### Sql-to-Pandas
-<img src="images/sql_pd.png" alt="sql-to-pandas" width="400" />
-
-<!-- ![Sql-to-pandas](images/sql_pd.png) -->
+<!-- <img src="images/sql_pd.png" alt="sql-to-pandas" width="400" /> -->
 - A tool for translating SQL queries into equivalent Pandas queries, implemented in Haskell
 - I worked on implementing a parser for SQL queries using monadic parser-combinators, 
 and verifying the correctness of the parser using QuickCheck. 
