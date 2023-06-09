@@ -13,7 +13,7 @@
   strict = true
 
   # Where generated files go
-  build_dir = "build/"
+  build_dir = "docs/"
 
   # Where page files are stored
   site_dir = "site/"
