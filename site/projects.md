@@ -16,9 +16,9 @@ implementing the interface are observationally equivalent.
 - Advised by [Harry Goldstein](https://harrisongoldste.in) & Prof. [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
 
 ### Mechanized Type Soundness Proofs for the Hindley-Milner Type System
-- We mechanized type soundness proofs for the Hindley-Milner type system using the 
-[locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, using the [LnGen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools
-- We focused on the non-syntax-directed version of the HM type system, as presented by [Peyton Jones et al. (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf)
+- Mechanized type soundness proofs for the Hindley-Milner type system using the 
+[locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, along with the [LnGen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools.
+- The proofs are for the non-syntax-directed version of the HM type system, as presented in [Peyton Jones et al. (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf).
 - Joint work with [Gary Chen](https://www.hanxic.com) & [Zed Wu](https://www.linkedin.com/in/zhiyuan-wu/), advised by Prof. [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/])
 - Final project for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
 <div align="center">
@@ -39,8 +39,8 @@ literature incorporating DP into streaming algorithms.
   </iframe> 
 </div>
 
-### Asymptotic Behavior of Cliques in Inhomogeneous $W$-random Graphs
-- [Hladký et al. (2021)](https://arxiv.org/abs/1903.10570) proved a limit theorem for the no. of $r$-cliques in $W$-random graphs (an inhomogeneous variant of Erdős-Rényi random graphs). In these slides, I introduce the relevant background in graphon theory,
+### Asymptotic Behavior of Cliques in Inhomogeneous W-random Graphs
+- [Hladký et al. (2021)](https://arxiv.org/abs/1903.10570) proved a limit theorem for the no. of cliques in W-random graphs (an inhomogeneous variant of Erdős-Rényi random graphs). In these slides, I introduce the relevant background in graphon theory,
 provide a high-level overview of HlHladký et al.'s proofs & conduct numerical simulations in Python verifying their results. 
 - Independent study, advised by [Anirban Chatterjee](https://statistics.wharton.upenn.edu/profile/anirbanc/#research) & Prof. [Bhaswar Bhattacharya](https://statistics.wharton.upenn.edu/profile/bhaswar/)
 (via Penn's [Undergraduate Research in Probability & Statistics](https://sites.google.com/view/urps-penn) program)
