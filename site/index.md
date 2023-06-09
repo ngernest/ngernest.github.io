@@ -1,15 +1,12 @@
 ## About me
-Hi there! I'm a recent graduate of the University of Pennsylvania, where I obtained a Master's in Computer Science              
-& a Bachelor's in Math & CS. 
+<img src="/images/headshot.jpg" alt="Ernest Ng" width="300" height="300" align="right" style="margin-left: 20px"/> 
+Hi there! I'm a recent graduate of the University of Pennsylvania, where I obtained a Master's in Computer Science & a Bachelor's in Math & CS. 
 
-My academic interests include functional programming in OCaml & Haskell, proof assistants (eg. Coq),              
-compilers and type systems. I also enjoy thinking about abstract algebra & graph theory. 
+My academic interests include functional programming in OCaml & Haskell, proof assistants (eg. Coq),        compilers and type systems. I also enjoy thinking about abstract algebra & graph theory. 
 
 At Penn, I was fortunate to be able to do programming languages research as part of [PLClub](https://www.seas.upenn.edu/~cis5520/current/index.html):                  
-- I developed [Mica](https://github.com/ngernest/module_pbt/commits/dev), an automated tool for conducting property-based testing of OCaml modules,         
-advised by Prof. [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) and [Harry Goldstein](https://harrisongoldste.in).                             
-- I also worked on a project mechanizing type soundness proofs for the Hindley-Milner            
-type system in Coq, advised by Prof. [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/). 
+- I developed [Mica](https://github.com/ngernest/module_pbt/commits/dev), an automated tool for conducting property-based testing of OCaml modules, advised by Prof. [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) and [Harry Goldstein](https://harrisongoldste.in).                             
+- I also worked on a project mechanizing type soundness proofs for the Hindley-Milner type system in Coq, advised by Prof. [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/). 
 
 As an undergrad math major, I also conducted two independent studies where I learnt about:
 - Graphons & extremal graph theory (advised by Prof. [Bhaswar Bhattacharya](https://statistics.wharton.upenn.edu/profile/bhaswar/))
