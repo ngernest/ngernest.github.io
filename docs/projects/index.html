@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/style.css">
+  <title>
+   Research + Projects — Ernest Ng
+  </title>
+ </head>
+ <body>
+  <header>
+   <span class="header-text">Ernest Ng</span>
+  </header>
+  <nav>
+   <a href="/">Home</a>  |  
+  
+  <a class="nav-active" href="/projects">Research + Projects</a>
+  </nav>
+  <main>
+   <h1>
+    Research + Projects
+   </h1>
+   <h2>
+    Contents
+   </h2>
+   <ul>
+    <li>
+     <a href="#pl">PL research / projects</a>
+    </li>
+    <li>
+     <a href="#litreviews">Literature reviews</a>
+    </li>
+    <li>
+     <a href="#lectures">Lectures</a>
+    </li>
+    <li>
+     <a href="#others">Other programming projects</a>
+    </li>
+   </ul>
+   <hr>
+   <h2>
+    <a href="#pl">PL research / projects</a>
+   </h2>
+   <h3>
+    Mica: Automated Property-Based Testing for OCaml Modules <a href="https://github.com/homjason/sql-to-pandas">(GitHub)</a> <a href="https://ngernest.github.io/module_pbt/module_pbt/index.html">(Documentation)</a>
+   </h3>
+   <ul>
+    <li>
+     A tool which parses an OCaml module signature and automatically
+generates property-testing code specialized to the interface, checking
+if two modules implementing the interface are observationally
+equivalent.
+    </li>
+    <li>
+     Advised by Prof. Benjamin Pierce &amp; Harry Goldstein
+    </li>
+   </ul>
+   <h3>
+    Mechanized Type Soundness Proofs for the Hindley-Milner Type
+System
+   </h3>
+   <ul>
+    <li>
+     We mechanized type soundness proofs for the Hindley-Milner type
+system using the locally nameless representation in Coq, using the LNGen
+&amp; Ott metatheory tools
+    </li>
+    <li>
+     We focused on the non-syntax-directed version of the HM type system,
+as presented in <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf"><em>Practical
+Type Inference for Arbitrary-Rank Types</em></a> (Peyton Jones et al.
+2007)
+    </li>
+    <li>
+     Joint work with Gary Chen &amp; Zed Wu, advised by Prof. Stephanie
+Weirich
+    </li>
+    <li>
+     Final project for CIS 6700 (Advanced Topics in Programming
+Languages)
+    </li>
+   </ul>
+   <div align="center">
+    <iframe src="/pdfs/6700_report.pdf" width="640" height="480" allow="autoplay"></iframe>
+   </div>
+   <hr>
+   <h2>
+    <a href="#litreviews">Literature Reviews</a>
+   </h2>
+   <h3>
+    Survey: Differentially Private Streaming Algorithms
+   </h3>
+   <ul>
+    <li>
+     Joint work with Kavish Shah, advised by Prof. Michael Kearns
+    </li>
+    <li>
+     Final project for CIS 6250 (Theory of Machine Learning)
+    </li>
+   </ul>
+   <div align="center">
+    <iframe src="/pdfs/6250_report.pdf" width="640" height="480" allow="autoplay"></iframe>
+   </div>
+   <h3>
+    Asymptotic Behavior of Cliques in Inhomogeneous W-random Graphs
+   </h3>
+   <ul>
+    <li>
+     Independent study, advised by Prof. Bhaswar Bhattacharya &amp;
+Anirban Chatterjee<br>
+(via Penn’s Undergraduate Research in Probability &amp; Statistics
+program)
+    </li>
+   </ul>
+   <div align="center">
+    <iframe src="/pdfs/urps_slides.pdf" width="640" height="480" allow="autoplay"></iframe>
+   </div>
+   <h3>
+    Proving Pólya’s Random Walk Theorem using Electric Network
+Theory
+   </h3>
+   <ul>
+    <li>
+     Independent study, advised by Eric Goodman<br>
+(via Penn’s Directed Reading Program)
+    </li>
+   </ul>
+   <div align="center">
+    <iframe src="/pdfs/drp_slides.pdf" width="640" height="480" allow="autoplay"></iframe>
+   </div>
+   <hr>
+   <h2>
+    <a href="#lectures">Lectures</a>
+   </h2>
+   <h3>
+    Programming in the Untyped λ-calculus
+   </h3>
+   <ul>
+    <li>
+     Lecture for CIS 6700 (Advanced Topics in Programming Languages)
+    </li>
+    <li>
+     Covered Church &amp; Scott encodings of various datatypes in the
+untyped λ-calculus
+    </li>
+   </ul>
+   <div align="center">
+    <iframe src="/pdfs/6700_lc_slides.pdf" width="640" height="480" allow="autoplay"></iframe>
+   </div>
+   <h3>
+    Parsers in Haskell
+   </h3>
+   <ul>
+    <li>
+     Guest lecture for CIS 1940 (Introduction to Haskell)
+    </li>
+    <li>
+     Covered monadic parser combinators, the <code>Applicative</code>
+typeclass &amp; testing parsers<br>
+using round-trip properties in QuickCheck
+    </li>
+   </ul>
+   <div align="center">
+    <iframe src="/pdfs/1940_slides.pdf" width="640" height="480" allow="autoplay"></iframe>
+   </div>
+   <hr>
+   <h2>
+    <a href="#others">Other programming projects</a>
+   </h2>
+   <h3>
+    <a href="https://github.com/homjason/sql-to-pandas">SQL to Pandas
+Translator</a>
+   </h3>
+   <div align="center">
+    <img src="/images/sql_pd.png" alt="sql-to-pandas" width="600">
+   </div>
+   <ul>
+    <li>
+     A tool for translating SQL queries into equivalent Pandas queries,
+implemented in Haskell.
+    </li>
+    <li>
+     I worked on implementing a parser for SQL queries using monadic
+parser-combinators, and verifying the correctness of the parser using
+QuickCheck.
+    </li>
+    <li>
+     Joint work with Jason Hom, mentored by Joe Cutler
+    </li>
+    <li>
+     Final project for CIS 5520 (Advanced Programming)
+    </li>
+   </ul>
+   <h3>
+    PennOS
+   </h3>
+   <div align="center">
+    <img src="/images/pennos_diagram.png" alt="PennOS" width="800" height="190">
+   </div>
+   <ul>
+    <li>
+     A Unix-esque operating system implemented in C (~10k lines of
+code)
+    </li>
+    <li>
+     I worked on the OS kernel, in particular implementing the scheduler
+and handling signals/process statuses, as well as integrating the kernel
+with the shell.
+    </li>
+    <li>
+     Joint work with Mati Davis, John Smith, Rohan Verma, Keshav
+Ramji
+    </li>
+    <li>
+     Final project for CIS 5480 (Operating Systems)
+    </li>
+   </ul>
+   <h3>
+    <a href="https://docs.google.com/presentation/d/1fL55MLWr2VaVK5deRYRwu6vWKUUKeHCSRbeT5pGzqGA/edit?usp=sharing">HomeLab</a>
+   </h3>
+   <ul>
+    <li>
+     Custom VPN + Media server, hosted on a PC salvaged from Penn’s
+E-Waste facilities
+    </li>
+    <li>
+     Joint work with Aaron Shurberg
+    </li>
+    <li>
+     Final project for CIS 1880 (DevOps)
+    </li>
+   </ul>
+  </main>
+  <footer>
+   <span style="float:left;">
+    Built using <a href="https://www.soupault.app">Soupault</a>, a static site generator written in OCaml. 
+  </span>
+  <span style="float:right;">
+    Last updated: June 9, 2023.
+  </span>
+  </footer>
+ </body>
+</html>
