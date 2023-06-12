@@ -34,8 +34,8 @@ implementing the interface are observationally equivalent.
 - Advised by [Harry Goldstein](https://harrisongoldste.in) & Prof. [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
 
 ### Mechanized Type Soundness Proofs for the Hindley-Milner Type System
-- Mechanized type soundness proofs for the Hindley-Milner type system using the 
-[locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, along with the [LnGen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools.
+- Mechanized type soundness proofs for the Hindley-Milner (or "Damas-Milner") type system using the 
+[locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, along with the [LNGen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools.
 - The proofs are for the non-syntax-directed version of the HM type system, as presented in [Peyton Jones et al. (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf).
 - Joint work with [Gary Chen](https://www.hanxic.com) & [Zed Wu](https://www.linkedin.com/in/zhiyuan-wu/), advised by Prof. [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/])
 - Final project for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
