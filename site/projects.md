@@ -1,15 +1,15 @@
 # Research + Projects
 ## Contents
 - [PL research / projects](#pl)
-- [Literature reviews](#litreviews)
+- [Literature reviews / Independent studies](#litreviews)
 - [Lectures](#lectures)
 - [Other programming projects](#others)
 
 ********************************************************************************
-## [PL research / projects](#pl)
+## <a name="pl"></a> PL research / projects
 
 ### Mica: Automated Property-Based Testing for OCaml Modules (ongoing work) 
-[(GitHub)](https://github.com/homjason/sql-to-pandas) [(Documentation)](https://ngernest.github.io/module_pbt/module_pbt/index.html)
+[(GitHub)](https://github.com/ngernest/module_pbt) [(Documentation)](https://ngernest.github.io/module_pbt/module_pbt/index.html)
 - A tool which parses an OCaml module signature and automatically generates 
 property-testing code specialized to the interface, checking if two modules
 implementing the interface are observationally equivalent. 
@@ -27,7 +27,7 @@ implementing the interface are observationally equivalent.
 </div>
 
 ********************************************************************************
-## [Literature Reviews](#litreviews)
+## <a name="litreviews"></a> Literature Reviews / Independent Studies
 
 ### Survey: Differentially Private Streaming Algorithms
 - Discussed the theory of Differential Privacy (DP) and recent work from the TCS & PL
@@ -41,7 +41,7 @@ literature incorporating DP into streaming algorithms.
 
 ### Asymptotic Behavior of Cliques in Inhomogeneous W-random Graphs
 - [Hladký et al. (2021)](https://arxiv.org/abs/1903.10570) proved a limit theorem for the no. of cliques in W-random graphs (an inhomogeneous variant of Erdős-Rényi random graphs). In these slides, I introduce the relevant background in graphon theory,
-provide a high-level overview of HlHladký et al.'s proofs & conduct numerical simulations in Python verifying their results. 
+provide a high-level overview of Hladký et al.'s proofs & conduct numerical simulations in Python verifying their results. 
 - Independent study, advised by [Anirban Chatterjee](https://statistics.wharton.upenn.edu/profile/anirbanc/#research) & Prof. [Bhaswar Bhattacharya](https://statistics.wharton.upenn.edu/profile/bhaswar/)
 (via Penn's [Undergraduate Research in Probability & Statistics](https://sites.google.com/view/urps-penn) program)
 <div align="center">
@@ -60,7 +60,7 @@ random walks on integer lattices, focusing on [Doyle & Snell's (1984)](https://m
 </div>
 
 ********************************************************************************
-## [Lectures](#lectures)
+## <a name="lectures"></a> Lectures
 
 ### Programming in the Untyped λ-calculus 
 - Slides for a talk I gave for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
@@ -80,7 +80,7 @@ following the presenation in Pierce's *Types & Programming Languages* textbook.
 </div>
 
 ********************************************************************************
-## [Other programming projects](#others)
+## <a name="others"></a> Other programming projects
 ### [SQL to Pandas Translator](https://github.com/homjason/sql-to-pandas)   
 <div align="center">     
   <img src="/images/sql_pd.png" alt="sql-to-pandas" width="600" /> 
