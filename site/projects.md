@@ -84,7 +84,7 @@ random walks on integer lattices, focusing on [Doyle & Snell's (1984)](https://m
 ### Programming in the Untyped λ-calculus 
 - Slides for a talk I gave for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
 - In these slides, I cover the Church & Scott encodings of various datatypes in the untyped λ-calculus,       
-following the presenation in Pierce's *Types & Programming Languages* textbook. 
+following the presentation in Pierce's *Types & Programming Languages* textbook. 
 <div align="center" class="fluidMedia">
   <iframe src="/pdfs/6700_lc_slides.pdf" allow="autoplay">
   </iframe> 

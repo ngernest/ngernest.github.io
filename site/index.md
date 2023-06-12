@@ -18,6 +18,8 @@ As an undergrad math major, I also conducted two independent studies where I lea
 I've also previously interned at [Perpay](https://perpay.com) & [PricewaterhouseCoopers (PwC)](https://www.pwchk.com/en/issues/cybersecurity-and-privacy/dark-lab.html), where I worked on data engineering             
 & web security projects respectively. 
 
+Feel free to visit the [projects](https://ngernest.github.io/projects) page for further details!
+
 ## Teaching
 During my time at Penn, I served as a TA for the following courses:
 - [CIS 1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell 
