@@ -1,4 +1,22 @@
 # Research + Projects
+
+<style>
+  .fluidMedia {
+  position: relative;
+  padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
+  padding-top: 30px;
+  height: 0;
+  overflow: hidden;
+  }
+
+  .fluidMedia iframe {
+  position: absolute;
+  top: 0; 
+  left: 0;
+  width: 100%;
+  height: 100%;
+  }
+</style>  
 ## Contents
 - [PL research / projects](#pl)
 - [Literature reviews / Independent studies](#litreviews)
@@ -21,8 +39,8 @@ implementing the interface are observationally equivalent.
 - The proofs are for the non-syntax-directed version of the HM type system, as presented in [Peyton Jones et al. (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf).
 - Joint work with [Gary Chen](https://www.hanxic.com) & [Zed Wu](https://www.linkedin.com/in/zhiyuan-wu/), advised by Prof. [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/])
 - Final project for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
-<div align="center">
-  <iframe src="/pdfs/6700_report.pdf" allow="autoplay" style="width: 90vh; height: 50vh">
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/6700_report.pdf" allow="autoplay" frameborder="0">
   </iframe> 
 </div>
 
@@ -34,8 +52,8 @@ implementing the interface are observationally equivalent.
 literature incorporating DP into streaming algorithms.
 - Joint work with [Kavish Shah](https://www.linkedin.com/in/kavishshah15/), advised by Prof. [Michael Kearns](https://www.cis.upenn.edu/~mkearns/)
 - Final project for [CIS 6250](https://www.cis.upenn.edu/~mkearns/teaching/CIS625/) (Theory of Machine Learning)
-<div align="center">
-  <iframe src="/pdfs/6250_report.pdf" allow="autoplay" style="width: 90vh; height: 50vh">
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/6250_report.pdf" allow="autoplay" frameborder="0">
   </iframe> 
 </div>
 
@@ -45,8 +63,8 @@ provide a high-level overview of Hladký et al.'s proofs & conduct numerical sim
 - Independent study, advised by [Anirban Chatterjee](https://statistics.wharton.upenn.edu/profile/anirbanc/#research) & Prof. [Bhaswar Bhattacharya](https://statistics.wharton.upenn.edu/profile/bhaswar/)
 (via Penn's [Undergraduate Research in Probability & Statistics](https://sites.google.com/view/urps-penn) program)
 
-<div align="center" >
-  <iframe src="/pdfs/urps_slides.pdf" allow="autoplay" style="width: 90vh; height: 50vh">
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/urps_slides.pdf" allow="autoplay" frameborder="0">
   </iframe> 
 </div>
 
@@ -55,8 +73,8 @@ provide a high-level overview of Hladký et al.'s proofs & conduct numerical sim
 random walks on integer lattices, focusing on [Doyle & Snell's (1984)](https://math.dartmouth.edu/~doyle/docs/walks/walks.pdf) proof for Pólya's Random Walk Theorem.
 - Independent study, advised by [Eric Goodman](https://www.linkedin.com/in/etgoodman) & Prof. [Mona Merling](https://www2.math.upenn.edu/~mmerling/)
 (via Penn Math's [Directed Reading Program]((https://www2.math.upenn.edu/~tbraz/drp/)))
-<div align="center">
-  <iframe src="/pdfs/drp_slides.pdf" allow="autoplay" style="width: 90vh; height: 50vh">
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/drp_slides.pdf" allow="autoplay" frameborder="0">
   </iframe> 
 </div>
 
@@ -67,16 +85,16 @@ random walks on integer lattices, focusing on [Doyle & Snell's (1984)](https://m
 - Slides for a talk I gave for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
 - In these slides, I cover the Church & Scott encodings of various datatypes in the untyped λ-calculus,       
 following the presenation in Pierce's *Types & Programming Languages* textbook. 
-<div align="center">
-  <iframe src="/pdfs/6700_lc_slides.pdf" allow="autoplay" style="width: 90vh; height: 50vh">
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/6700_lc_slides.pdf" allow="autoplay">
   </iframe> 
 </div>
 
 ### Parsers in Haskell
 - Slides for a guest lecture for [CIS 1940](https://www.seas.upenn.edu/~cis1940/spring23/) (Introduction to Haskell)
 - In these slides, I cover monadic parser combinators (à la Parsec), the `Applicative` typeclass & testing parsers using round-trip properties in QuickCheck.
-<div align="center">
-  <iframe src="/pdfs/1940_slides.pdf" allow="autoplay" style="width: 90vh; height: 50vh">
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/1940_slides.pdf" allow="autoplay" frameborder="0">
   </iframe> 
 </div>
 
