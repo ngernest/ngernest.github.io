@@ -32,7 +32,13 @@ During my time at Penn, I served as a TA for the following courses:
 - CIS 5500: Databases
 
 ## Favorite classes at Penn
+**Computer Science**:
 - [CIS 5520](https://www.seas.upenn.edu/~cis5520/current/index.html): Advanced Programming (Haskell)
 - [CIS 6700](https://github.com/plclub/cis6700-23sp): PL Theory Seminar
-- ESE 2100: Dynamical Systems
-- ESE 3010: Engineering Probability
+- [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html): Software Foundations
+
+**Math**:
+- [ESE 2100](https://www.youtube.com/playlist?list=PL8erL0pXF3JZqdlYIfTTyibOqSqwzRdVV): Dynamical Systems
+- [ESE 3010](https://www.santoshvenkatesh.com/courses): Engineering Probability
+- [NETS 3120](https://www.nets.upenn.edu/short/nets-core-courses): Theory of Networks
+- Math 3710: Abstract Algebra II
