@@ -92,7 +92,8 @@ following the presentation in Pierce's *Types & Programming Languages* textbook.
 
 ### Parsers in Haskell
 - Slides for a guest lecture for [CIS 1940](https://www.seas.upenn.edu/~cis1940/spring23/) (Introduction to Haskell)
-- In these slides, I cover monadic parser combinators (à la Parsec), the `Applicative` typeclass & testing parsers using round-trip properties in QuickCheck.
+- In these slides, I cover monadic parser combinators (à la Parsec), Haskell's `Applicative` typeclass & testing parsers using QuickCheck.
+- I also designed an assignment where students build a parser for Lisp-style S-expressions using `Applicative` functors, and test the correctness of their parser using round-trip properties in QuickCheck. 
 <div align="center" class="fluidMedia">
   <iframe src="/pdfs/1940_slides.pdf" allow="autoplay" frameborder="0">
   </iframe> 
