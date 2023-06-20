@@ -31,7 +31,7 @@
 - A tool which parses an OCaml module signature and automatically generates 
 property-testing code specialized to the interface, checking if two modules
 implementing the interface are observationally equivalent. 
-- Accepted to the ICFP'23 Student Research Competition ([extended abstract](/pdfs/mica_icfp23src_abstract.pdf))
+- Accepted to the [ICFP'23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) ([extended abstract](/pdfs/mica_icfp23src_abstract.pdf))
 - Advised by [Harry Goldstein](https://harrisongoldste.in) & Prof. [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
 
 ### Mechanized Type Soundness Proofs for the Hindley-Milner Type System
