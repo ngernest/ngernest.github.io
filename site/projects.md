@@ -26,13 +26,17 @@
 ********************************************************************************
 ## <a name="pl"></a> PL research / projects
 
-### Mica: Automated Property-Based Testing for OCaml Modules (ongoing work) 
+### Mica: Automated Differential Testing for OCaml Modules (ongoing work) 
 [(GitHub)](https://github.com/ngernest/module_pbt) [(Documentation)](https://ngernest.github.io/module_pbt/module_pbt/index.html)
 - A tool which parses an OCaml module signature and automatically generates 
 property-testing code specialized to the interface, checking if two modules
 implementing the interface are observationally equivalent. 
 - Accepted to the [ICFP'23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) ([extended abstract](/pdfs/mica_icfp23src_abstract.pdf))
 - Advised by [Harry Goldstein](https://harrisongoldste.in) & Prof. [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/mica_plclub_talk.pdf" allow="autoplay" frameborder="0">
+  </iframe> 
+</div>
 
 ### Mechanized Type Soundness Proofs for the Hindley-Milner Type System
 - Mechanized type soundness proofs for the Hindley-Milner (or "Damas-Milner") type system using the 
