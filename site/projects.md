@@ -63,7 +63,7 @@ literature incorporating DP into streaming algorithms.
 </div>
 
 ### Asymptotic Behavior of Cliques in Inhomogeneous W-random Graphs
-[(Report)](./pdfs/urps_report.pdf) [(Slides)](./pdfs/urps_slides.pdf)
+[(Report)](/pdfs/urps_report.pdf) [(Slides)](/pdfs/urps_slides.pdf)
 - [Hladký et al. (2021)](https://arxiv.org/abs/1903.10570) proved a limit theorem for the no. of cliques in W-random graphs (an inhomogeneous variant of Erdős-Rényi random graphs). In these slides, I introduce the relevant background in graphon theory,
 provide a high-level overview of Hladký et al.'s proofs & conduct numerical simulations in Python verifying their results. 
 - Independent study, advised by [Anirban Chatterjee](https://statistics.wharton.upenn.edu/profile/anirbanc/#research) & Professor [Bhaswar Bhattacharya](https://statistics.wharton.upenn.edu/profile/bhaswar/)
@@ -107,7 +107,8 @@ following the presentation in Pierce's *Types & Programming Languages* textbook.
 
 ********************************************************************************
 ## <a name="others"></a> Other Programming Projects
-### SQL to Pandas Translator ([GitHub](https://github.com/homjason/sql-to-pandas))   
+### SQL to Pandas Translator 
+[(GitHub)](https://github.com/homjason/sql-to-pandas)
 <div align="center">     
   <img src="/images/sql_pd.png" alt="sql-to-pandas" width="600" /> 
 </div>       
