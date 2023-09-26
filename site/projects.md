@@ -18,13 +18,13 @@
   }
 </style>  
 ## Contents
-- [PL research / projects](#pl)
-- [Literature reviews / Independent studies](#litreviews)
+- [PL Research / Projects](#pl)
+- [Literature Reviews / Independent Studies](#litreviews)
 - [Lectures](#lectures)
-- [Other programming projects](#others)
+- [Other Programming Projects](#others)
 
 ********************************************************************************
-## <a name="pl"></a> PL research / projects
+## <a name="pl"></a> PL Research / Projects
 
 ### Mica: Automated Differential Testing for OCaml Modules
 [(GitHub)](https://github.com/ngernest/mica) [(Documentation)](https://ngernest.github.io/mica/mica/index.html)
@@ -53,7 +53,7 @@ are observationally equivalent.
 ## <a name="litreviews"></a> Literature Reviews / Independent Studies
 
 ### Survey: Differentially Private Streaming Algorithms
-- Discussed the theory of Differential Privacy (DP) and recent work from the TCS & PL
+- Discussed the theory of Differential Privacy (DP) and recent work from the algorithm design & PL
 literature incorporating DP into streaming algorithms.
 - Joint work with [Kavish Shah](https://www.linkedin.com/in/kavishshah15/), advised by Professor [Michael Kearns](https://www.cis.upenn.edu/~mkearns/)
 - Final project for [CIS 6250](https://www.cis.upenn.edu/~mkearns/teaching/CIS625/) (Theory of Machine Learning)
@@ -63,6 +63,7 @@ literature incorporating DP into streaming algorithms.
 </div>
 
 ### Asymptotic Behavior of Cliques in Inhomogeneous W-random Graphs
+[(Report)](./pdfs/urps_report.pdf) [(Slides)](./pdfs/urps_slides.pdf)
 - [Hladký et al. (2021)](https://arxiv.org/abs/1903.10570) proved a limit theorem for the no. of cliques in W-random graphs (an inhomogeneous variant of Erdős-Rényi random graphs). In these slides, I introduce the relevant background in graphon theory,
 provide a high-level overview of Hladký et al.'s proofs & conduct numerical simulations in Python verifying their results. 
 - Independent study, advised by [Anirban Chatterjee](https://statistics.wharton.upenn.edu/profile/anirbanc/#research) & Professor [Bhaswar Bhattacharya](https://statistics.wharton.upenn.edu/profile/bhaswar/)
@@ -105,7 +106,7 @@ following the presentation in Pierce's *Types & Programming Languages* textbook.
 </div>
 
 ********************************************************************************
-## <a name="others"></a> Other programming projects
+## <a name="others"></a> Other Programming Projects
 ### SQL to Pandas Translator ([GitHub](https://github.com/homjason/sql-to-pandas))   
 <div align="center">     
   <img src="/images/sql_pd.png" alt="sql-to-pandas" width="600" /> 
