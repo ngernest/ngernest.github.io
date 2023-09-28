@@ -9,7 +9,7 @@ My academic interests include functional programming in OCaml & Haskell, the Coq
 
 At Penn, I was fortunate to be able to do programming languages research as part of [PLClub](https://www.cis.upenn.edu/~plclub/):                  
 - I am currently working on [Mica](https://github.com/ngernest/mica), an automated tool for conducting property-based testing of OCaml modules, advised by Professor [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) and [Harry Goldstein](https://harrisongoldste.in). I presented Mica at the [ICFP '23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition#About).
-- I also worked on mechanizing type soundness proofs for the Hindley-Milner type system in Coq, advised by Professor [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/). 
+- I also worked on a team mechanizing type soundness proofs for the Hindley-Milner type system in Coq, advised by Professor [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/). 
 
 Feel free to visit the [projects](https://ngernest.github.io/projects) page for further details!
 
