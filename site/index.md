@@ -14,9 +14,9 @@ At Penn, I was fortunate to be able to do programming languages research as part
 Feel free to visit the [projects](https://ngernest.github.io/projects) page for further details!
 
 ## News
-<!-- - **Jan 2024**. Volunteered at [POPL 2024](https://popl24.sigplan.org/). *London, UK* -->
+- **Jan 2024**. Served as an A/V student volunteer at [POPL 2024](https://popl24.sigplan.org/). *London, UK*
 - **Sept 2023**. I'm grateful to have received 2nd prize in the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) for our work on [Mica](https://github.com/ngernest/mica)!
-  - At ICFP, I also served as a student volunteer and attended PLMW. *Seattle, WA*
+  - At ICFP, I also served as an A/V student volunteer and attended PLMW. *Seattle, WA*
 - **Aug 2023**. Received travel award to attend the [Cornell, Maryland & Max Planck Research School](https://cmmrs.mpi-sws.org) (CMMRS), held at the Max Planck Institute for Software Systems. *Saarbrücken, Germany*
 - **June 2023**. Received fellowship grant to attend the [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/) (OPLSS) at the University of Oregon. *Eugene, OR*
 
