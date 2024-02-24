@@ -2,7 +2,7 @@
 **Email**: [ngernest@alumni.upenn.edu](mailto:ngernest@alumni.upenn.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)
 
-<img src="/images/headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:100%; max-height: 100%; margin-left: 20px"/> 
+<img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:100%; max-height: 100%; margin-left: 20px"/> 
 Hello! I recently graduated from the University of Pennsylvania, where I obtained a Master's in Computer Science & a Bachelor's in Math & CS. 
 
 My academic interests include functional programming in OCaml & Haskell, the Coq proof assistant, compilers and type systems. I also enjoy thinking about abstract algebra & graph theory. 
