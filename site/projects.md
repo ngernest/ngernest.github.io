@@ -30,7 +30,7 @@
 [(GitHub)](https://github.com/ngernest/mica) [(Documentation)](https://ngernest.github.io/mica/mica/index.html)
 - Mica is a tool which automates differential testing for OCaml modules. Mica parses an OCaml module signature and *automatically* generates property-testing code specialized to the interface, checking if two modules
 are observationally equivalent. 
-- Received Second Prize at the [ICFP'23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) (Graduate Category) 
+- Received Second Prize at the [ICFP'23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) (Graduate Category)       
 ([poster](/pdfs/mica_icfp23src_poster.pdf)) ([extended abstract](/pdfs/mica_icfp23src_abstract.pdf))
 - Advised by [Harry Goldstein](https://harrisongoldste.in) & Professor [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
 <div align="center" class="fluidMedia">

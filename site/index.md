@@ -1,22 +1,28 @@
 ## About me
-**Email**: [ngernest@alumni.upenn.edu](mailto:ngernest@alumni.upenn.edu)  
+**Email**: [eyn5@cornell.edu](mailto:eyn5@cornell.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:100%; max-height: 100%; margin-left: 20px"/> 
-Hello! I recently graduated from the University of Pennsylvania, where I obtained a Master's in Computer Science & a Bachelor's in Math & CS. 
 
-My academic interests include functional programming in OCaml & Haskell, the Coq proof assistant, compilers and type systems. I also enjoy thinking about abstract algebra & graph theory. 
+Hello! I'm an incoming Computer Science PhD student at [Cornell University](https://www.cs.cornell.edu). I previously studied at the [University of Pennsylvania](https://www.cis.upenn.edu/), majoring in math & CS. 
 
-At Penn, I was fortunate to be able to do programming languages research as part of [PLClub](https://www.cis.upenn.edu/~plclub/):                  
-- I am currently working on [Mica](https://github.com/ngernest/mica), an automated tool for conducting property-based testing of OCaml modules, advised by Professor [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) and [Harry Goldstein](https://harrisongoldste.in). I presented Mica at the [ICFP '23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition#About).
-- I also worked on a team mechanizing type soundness proofs for the Hindley-Milner type system in Coq, advised by Professor [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/). 
+At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/).
 
-Feel free to visit the [projects](https://ngernest.github.io/projects) page for further details!
+My academic interests include functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers.
 
-## News
-- **Jan 2024**. Served as an A/V student volunteer at [POPL 2024](https://popl24.sigplan.org/). *London, UK*
-- **Sept 2023**. I'm grateful to have received 2nd prize in the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) for our work on [Mica](https://github.com/ngernest/mica)!
-  - At ICFP, I also served as an A/V student volunteer and attended PLMW. *Seattle, WA*
+## Research 
+- Mica: Automated Differential Testing for OCaml Modules       
+Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
+Under submission.
+
+- [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
+Ernest Ng       
+[ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)
+
+
+## Recent News
+- **Jan 2024**. Served as an AV student volunteer at [POPL 2024](https://popl24.sigplan.org/). *London, UK*
+- **Sept 2023**. Received 2nd prize in the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) for our work on [Mica](https://github.com/ngernest/mica)! *Seattle, WA*
 - **Aug 2023**. Received travel award to attend the [Cornell, Maryland & Max Planck Research School](https://cmmrs.mpi-sws.org) (CMMRS), held at the Max Planck Institute for Software Systems. *Saarbrücken, Germany*
 - **June 2023**. Received fellowship grant to attend the [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/) (OPLSS) at the University of Oregon. *Eugene, OR*
 
@@ -28,15 +34,3 @@ During my time at Penn, I served as a teaching assistant for the following cours
 - [*Software Foundations*](https://softwarefoundations.cis.upenn.edu) mini-course (abridged version of [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), part of Penn's [REPL](https://penn-repl.github.io) program)
 - [CIS 5450](https://sites.google.com/seas.upenn.edu/cis545-22f): Big Data Analytics (Head TA, Fall '22)
 - [CIS 5500](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/): Databases
-
-## Favorite classes at Penn
-**Computer Science**:
-- [CIS 5520](https://www.seas.upenn.edu/~cis5520/current/index.html): Advanced Programming (Haskell)
-- [CIS 6700](https://github.com/plclub/cis6700-23sp): PL Theory Seminar
-- [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html): Software Foundations
-
-**Math**:
-- [ESE 2100](https://www.youtube.com/playlist?list=PL8erL0pXF3JZqdlYIfTTyibOqSqwzRdVV): Dynamical Systems
-- [ESE 3010](https://www.santoshvenkatesh.com/courses): Engineering Probability
-- [NETS 3120](https://www.nets.upenn.edu/short/nets-core-courses): Theory of Networks
-- [Math 3710](https://www.maximilienperoux.com/teaching): Abstract Algebra II
