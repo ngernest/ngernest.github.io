@@ -4,7 +4,7 @@
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:100%; max-height: 100%; margin-left: 20px"/> 
 
-Hello! I'm an incoming Computer Science PhD student at [Cornell University](https://www.cs.cornell.edu). I previously studied at the [University of Pennsylvania](https://www.cis.upenn.edu/), majoring in math & CS. 
+Hello! I'm an incoming Computer Science PhD student at [Cornell University](https://www.cs.cornell.edu). I previously studied at the [University of Pennsylvania](https://www.cis.upenn.edu/), majoring in Math & CS. 
 
 At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/).
 
@@ -13,7 +13,7 @@ My academic interests include functional programming in OCaml & Haskell, the Coq
 ## Research 
 - Mica: Automated Differential Testing for OCaml Modules       
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
-Under submission.
+OCaml Workshop 2024.
 
 - [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
 Ernest Ng       
@@ -21,7 +21,6 @@ Ernest Ng
 
 
 ## Recent News
-- **Jan 2024**. Served as an AV student volunteer at [POPL 2024](https://popl24.sigplan.org/). *London, UK*
 - **Sept 2023**. Received 2nd prize in the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) for our work on [Mica](https://github.com/ngernest/mica)! *Seattle, WA*
 - **Aug 2023**. Received travel award to attend the [Cornell, Maryland & Max Planck Research School](https://cmmrs.mpi-sws.org) (CMMRS), held at the Max Planck Institute for Software Systems. *Saarbrücken, Germany*
 - **June 2023**. Received fellowship grant to attend the [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/) (OPLSS) at the University of Oregon. *Eugene, OR*
