@@ -11,9 +11,9 @@ At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis552
 My academic interests include functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers.
 
 ## Research 
-- Mica: Automated Differential Testing for OCaml Modules       
+- [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
-OCaml Workshop 2024.
+OCaml Workshop 2024
 
 - [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
 Ernest Ng       
