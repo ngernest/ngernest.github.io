@@ -13,20 +13,20 @@ My academic interests include functional programming in OCaml & Haskell, the Coq
 ## Research 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
-OCaml Workshop 2024
+[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About)
 
 - [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
 Ernest Ng       
-[ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)
+[ICFP '23 SRC (2nd place)](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)
 
 
 ## Recent News
-- **Sept 2023**. Received 2nd prize in the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) for our work on [Mica](https://github.com/ngernest/mica)! *Seattle, WA*
+- **Sept 2023**. Presented a poster on [Mica](https://github.com/ngernest/mica) at the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)! *Seattle, WA*
 - **Aug 2023**. Received travel award to attend the [Cornell, Maryland & Max Planck Research School](https://cmmrs.mpi-sws.org) (CMMRS), held at the Max Planck Institute for Software Systems. *Saarbrücken, Germany*
 - **June 2023**. Received fellowship grant to attend the [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/) (OPLSS) at the University of Oregon. *Eugene, OR*
 
 ## Teaching
-During my time at Penn, I served as a teaching assistant for the following courses:
+At Penn, I served as a TA for the following courses:
 - [CIS 1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell 
 - [CIS 2400](https://www.seas.upenn.edu/~cis2400/current/): Computer Systems
 - [CIS 3800](https://www.seas.upenn.edu/~cis3800/23fa/): Operating Systems
