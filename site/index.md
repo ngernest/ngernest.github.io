@@ -8,7 +8,9 @@ Hello! I'm an incoming Computer Science PhD student at [Cornell University](http
 
 At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/).
 
-My academic interests include functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers.
+My academic interests include functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers. 
+
+Before grad school, I worked in industry for a year as a data engineer. 
 
 ## Research 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
@@ -17,7 +19,7 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 
 - [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
 Ernest Ng       
-[ICFP '23 SRC (2nd place)](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)
+[ICFP 2023 SRC (2nd place)](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)
 
 
 ## Recent News
