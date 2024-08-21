@@ -4,7 +4,7 @@
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:100%; max-height: 100%; margin-left: 20px"/> 
 
-Hello! I'm an incoming Computer Science PhD student at [Cornell University](https://www.cs.cornell.edu). I previously studied at the [University of Pennsylvania](https://www.cis.upenn.edu/), majoring in Math & CS. 
+Hi! I'm a first-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I previously studied at [Penn](https://www.cis.upenn.edu/), majoring in Math & CS. 
 
 At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/).
 
