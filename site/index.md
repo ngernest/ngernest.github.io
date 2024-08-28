@@ -1,6 +1,7 @@
 ## About me
 **Email**: [eyn5@cornell.edu](mailto:eyn5@cornell.edu)  
-**GitHub**: [`ngernest`](https://github.com/ngernest)
+**GitHub**: [`ngernest`](https://github.com/ngernest)         
+**Office**: Gates G23
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:100%; max-height: 100%; margin-left: 20px"/> 
 
