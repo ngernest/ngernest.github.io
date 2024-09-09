@@ -16,7 +16,7 @@ Before grad school, I worked in industry for a year as a data engineer.
 ## Research 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
-[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About)
+[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://t.co/6zsv8n3j0R) [[Implementation]](https://github.com/ngernest/mica)</small>
 
 - [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
 Ernest Ng       
