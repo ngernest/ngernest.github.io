@@ -3,15 +3,13 @@
 **GitHub**: [`ngernest`](https://github.com/ngernest)         
 **Office**: Gates G23
 
-<img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:100%; max-height: 100%; margin-left: 20px"/> 
+<img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px"/> 
 
-Hi! I'm a first-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I previously studied at [Penn](https://www.cis.upenn.edu/), majoring in Math & CS. 
+Hi! I'm a first-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I'm interested in functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers. 
 
-At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/).
+I previously studied at [Penn](https://www.cis.upenn.edu/), majoring in Math & CS. At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I also worked in industry for a year as a data engineer. 
 
-My academic interests include functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers. 
-
-Before grad school, I worked in industry for a year as a data engineer. 
+Outside of PL, I enjoy playing the pipe organ and running. 
 
 ## Research 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
