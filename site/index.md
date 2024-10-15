@@ -1,8 +1,6 @@
 ## About me
 **Email**: [ernest@cs.cornell.edu](mailto:ernest@cs.cornell.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)         
-**Office**: Gates G23         
-**Resume**: [click here](./pdfs/resume.pdf)
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px"/> 
 
