@@ -27,8 +27,10 @@
 ## <a name="pl"></a> PL Research / Projects
 
 ### Mica: Automated Differential Testing for OCaml Modules
-([OCaml Workshop '24 paper](/pdfs/ocaml24_mica.pdf)) ([ICFP '23 SRC poster](/pdfs/mica_icfp23src_poster.pdf)) [(GitHub)](https://github.com/ngernest/mica)
+[(OCaml Workshop '24 paper)](/pdfs/ocaml24_mica.pdf) [(ICFP '23 SRC poster)](/pdfs/mica_icfp23src_poster.pdf) [(GitHub)](https://github.com/ngernest/mica) [(Web demo)](https://ngernest.github.io/mica/demo)
 - Mica is a PPX compiler extension which automates differential testing for OCaml modules. Mica *automatically* generates property-testing code specialized to the interface, checking if two modules are observationally equivalent. 
+- Available to [install via Opam](https://opam.ocaml.org/packages/ppx_mica/)
+- Presented paper at the [OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) (co-located with ICFP '24)
 - Received Second Prize at the [ICFP '23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)     
 - Advised by [Harry Goldstein](https://harrisongoldste.in) & Professor [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
 <div align="center" class="fluidMedia">

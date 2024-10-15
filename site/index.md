@@ -1,7 +1,8 @@
 ## About me
 **Email**: [ernest@cs.cornell.edu](mailto:ernest@cs.cornell.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)         
-**Office**: Gates G23
+**Office**: Gates G23         
+**Resume**: [click here](./pdfs/resume.pdf)
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px"/> 
 
@@ -11,10 +12,12 @@ I previously studied at [Penn](https://www.cis.upenn.edu/), majoring in Math & C
 
 Outside of PL, I enjoy playing the pipe organ and running. 
 
+Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects.md) page on this website!
+
 ## Research 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
-[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://t.co/6zsv8n3j0R) [[Implementation]](https://github.com/ngernest/mica)</small>
+[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://t.co/6zsv8n3j0R) [[Code]](https://github.com/ngernest/mica)</small>
 
 - [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
 Ernest Ng       
