@@ -12,7 +12,7 @@ I previously studied at [Penn](https://www.cis.upenn.edu/), majoring in Math & C
 
 Outside of PL, I enjoy playing the pipe organ and running. 
 
-Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects.md) page on this website!
+Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
 ## Research 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
