@@ -23,8 +23,9 @@ Ernest Ng
 
 
 ## Recent News
-- **Sept 2024**. Attended [ICFP '24](https://icfp24.sigplan.org/) & presented an [OCaml Workshop paper](./pdfs/ocaml24_mica.pdf) about [Mica](https://github.com/ngernest/mica)! *Milan, Italy*
-- **Sept 2023**. Presented a [Mica](https://github.com/ngernest/mica) prototype at the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)! *Seattle, WA*
+- **Oct 2024**. Gave an invited talk on [Mica](https://github.com/ngernest/mica) at Bloomberg.
+- **Sept 2024**. Attended [ICFP '24](https://icfp24.sigplan.org/) & presented an [OCaml Workshop paper](./pdfs/ocaml24_mica.pdf) about [Mica](https://github.com/ngernest/mica). *Milan, Italy*
+- **Sept 2023**. Presented a [Mica](https://github.com/ngernest/mica) prototype at the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition). *Seattle, WA*
 - **Aug 2023**. Received a travel award for the [Cornell, Maryland & Max Planck Research School](https://cmmrs.mpi-sws.org) (CMMRS), held at MPI-SWS. *Saarbrücken, Germany*
 - **June 2023**. Attended the [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/) (OPLSS). *Eugene, OR*
 
