@@ -3,3 +3,4 @@ site/.DS_Store
 build/pdfs
 build/images
 build/blog
+.vscode/*

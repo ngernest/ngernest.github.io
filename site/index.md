@@ -15,7 +15,7 @@ Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./
 ## Research 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
-[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://t.co/6zsv8n3j0R) [[Code]](https://github.com/ngernest/mica)</small>
+[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>
 
 - [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
 Ernest Ng       
@@ -23,7 +23,7 @@ Ernest Ng
 
 
 ## Recent News
-- **Oct 2024**. Gave an invited talk on [Mica](https://github.com/ngernest/mica) at Bloomberg.
+- **Oct 2024**. Gave an [invited talk](./pdfs/mica_bloomberg_slides.pdf) on [Mica](https://github.com/ngernest/mica) at Bloomberg.
 - **Sept 2024**. Attended [ICFP '24](https://icfp24.sigplan.org/) & presented an [OCaml Workshop paper](./pdfs/ocaml24_mica.pdf) about [Mica](https://github.com/ngernest/mica). *Milan, Italy*
 - **Sept 2023**. Presented a [Mica](https://github.com/ngernest/mica) prototype at the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition). *Seattle, WA*
 - **Aug 2023**. Received a travel award for the [Cornell, Maryland & Max Planck Research School](https://cmmrs.mpi-sws.org) (CMMRS), held at MPI-SWS. *Saarbrücken, Germany*
