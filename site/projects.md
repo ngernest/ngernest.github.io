@@ -38,9 +38,20 @@
   </iframe> 
 </div>
 
+### Verified Brzozowski and Antimirov Derivatives 
+[(GitHub)](https://github.com/ngernest/regexes)
+- Mechanized Coq proofs about the equivalence of [Brzozowski derivatives](https://harrisongoldste.in/languages/2017/09/30/derivatives-of-regular-expressions.html), [Antimirov derivatives](https://semantic-domain.blogspot.com/2013/11/antimirov-derivatives-for-regular.html), and their [zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure)) representation ([Edelmann 2020](https://infoscience.epfl.ch/server/api/core/bitstreams/4fcb9f0f-7ac1-484f-823c-c19de39dd9ff/content))
+- Implemented executable derivative-based regex matchers in OCaml, tested using QuickCheck
+- Joint work with [Laura Zielinski](https://www.linkedin.com/in/lauraczielinski/), advised by [Jules Jacobs](https://julesjacobs.com) and Professor [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
+- Final project for [CS 6115](https://www.cs.cornell.edu/courses/cs6115/2024fa/) (Certified Software Systems)
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/6115_project_slides.pdf" allow="autoplay" frameborder="0">
+  </iframe> 
+</div>
+
 ### Mechanized Type Soundness Proofs for the Hindley-Milner Type System
 - Mechanized type soundness proofs for the Hindley-Milner (or "Damas-Milner") type system using the 
-[locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, along with the [LNGen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools.
+[locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, along with the [LNgen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools.
 - The proofs are for the non-syntax-directed version of the HM type system, as presented in [Peyton Jones et al. (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf).
 - Joint work with [Gary Chen](https://www.hanxic.com) & [Zed Wu](https://www.linkedin.com/in/zhiyuan-wu/), advised by Professor [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/])
 - Final project for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
@@ -78,7 +89,7 @@ provide a high-level overview of Hladký et al.'s proofs & conduct numerical sim
 - In these slides, I discuss the applications of electric network theory to 
 random walks on integer lattices, focusing on [Doyle & Snell's (1984)](https://math.dartmouth.edu/~doyle/docs/walks/walks.pdf) proof for Pólya's Random Walk Theorem.
 - Independent study, advised by [Eric Goodman](https://www.linkedin.com/in/etgoodman) & Professor [Mona Merling](https://www2.math.upenn.edu/~mmerling/)
-(via Penn Math's [Directed Reading Program]((https://www2.math.upenn.edu/~tbraz/drp/)))
+(via Math's [Directed Reading Program]((https://www2.math.upenn.edu/~tbraz/drp/)))
 <div align="center" class="fluidMedia">
   <iframe src="/pdfs/drp_slides.pdf" allow="autoplay" frameborder="0">
   </iframe> 
@@ -114,7 +125,7 @@ following the presentation in Pierce's *Types & Programming Languages* textbook.
 </div>       
 
 - A tool for translating SQL queries into equivalent Pandas queries, implemented in Haskell.
-- I worked on implementing a parser for SQL queries using monadic parser-combinators, 
+- I worked on implementing a parser for SQL queries using monadic parser combinators, 
 and verifying the correctness of the parser using QuickCheck. 
 - Joint work with [Jason Hom](https://www.linkedin.com/in/homjason), mentored by [Joe Cutler](https://www.cis.upenn.edu/~jwc/)
 - Final project for [CIS 5520](https://www.seas.upenn.edu/~cis5520/current/index.html) (Advanced Programming)

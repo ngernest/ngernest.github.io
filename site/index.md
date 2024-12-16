@@ -2,13 +2,14 @@
 **Email**: [ernest@cs.cornell.edu](mailto:ernest@cs.cornell.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)         
 
-<img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:30vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px"/> 
+<img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:25vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px"/> 
 
-Hi! I'm a first-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I'm interested in functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers. 
+Hi! I'm a first-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), co-advised by [Nate Foster](https://www.cs.cornell.edu/~jnfoster/) and [Alexandra Silva](https://alexandrasilva.org/#/main.html).
+I'm interested in functional programming in OCaml & Haskell, the Coq proof assistant, type systems and compilers. 
 
 I previously studied at [Penn](https://www.cis.upenn.edu/), majoring in Math & CS. At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I also worked in industry for a year as a data engineer. 
 
-Outside of PL, I enjoy playing the pipe organ and running. 
+Outside of PL, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=KyzOiJ5OZbo) and running. 
 
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
