@@ -51,7 +51,10 @@
 
 ### Flattening the Bril Intermediate Representation
 [(GitHub)](https://github.com/ngernest/flat-bril) [(Blog post)](https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/flat-bril/)            
-![Flat Bril Performance Graph](./images/flat_bril_graph.png)
+<div align="center">     
+  <img src="/images/flat_bril_graph.png" alt="flat-bril-performance-graph" width="800" /> 
+</div>    
+
 - More details in the [(blog post)](https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/flat-bril/) about this project! 
 - Used Rust to implement a [flattened](https://www.cs.cornell.edu/~asampson/blog/flattening.html) representation for the [Bril IR](https://capra.cs.cornell.edu/bril/) & an interpreter that works natively over the flattened representation
 - Joint work with [Sam Breckenridge](https://www.linkedin.com/in/samuel-breckenridge-4729b719a/) and [Katherine Wu](https://katherinewu312.github.io)
