@@ -49,6 +49,14 @@
   </iframe> 
 </div>
 
+### Flattening the Bril Intermediate Representation
+[(GitHub)](https://github.com/ngernest/flat-bril) [(Blog post)](https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/flat-bril/)            
+![Flat Bril Performance Graph](./images/flat_bril_graph.png)
+- More details in the [(blog post)](https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/flat-bril/) about this project! 
+- Used Rust to implement a [flattened](https://www.cs.cornell.edu/~asampson/blog/flattening.html) representation for the [Bril IR](https://capra.cs.cornell.edu/bril/) & an interpreter that works natively over the flattened representation
+- Joint work with [Sam Breckenridge](https://www.linkedin.com/in/samuel-breckenridge-4729b719a/) and [Katherine Wu](https://katherinewu312.github.io)
+- Final project for [CS 6120](https://www.cs.cornell.edu/courses/cs6120/2025sp/) (Advanced Compilers)
+
 ### Mechanized Type Soundness Proofs for the Hindley-Milner Type System
 - Mechanized type soundness proofs for the Hindley-Milner (or "Damas-Milner") type system using the 
 [locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, along with the [LNgen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools.
@@ -57,41 +65,6 @@
 - Final project for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
 <div align="center" class="fluidMedia">
   <iframe src="/pdfs/6700_report.pdf" allow="autoplay" frameborder="0">
-  </iframe> 
-</div>
-
-********************************************************************************
-## <a name="litreviews"></a> Literature Reviews / Independent Studies
-
-### Survey: Differentially Private Streaming Algorithms
-- Discussed the theory of Differential Privacy (DP) and recent work from the algorithm design & PL
-literature incorporating DP into streaming algorithms.
-- Joint work with [Kavish Shah](https://www.linkedin.com/in/kavishshah15/), advised by Professor [Michael Kearns](https://www.cis.upenn.edu/~mkearns/)
-- Final project for [CIS 6250](https://www.cis.upenn.edu/~mkearns/teaching/CIS625/) (Theory of Machine Learning)
-<div align="center" class="fluidMedia">
-  <iframe src="/pdfs/6250_report.pdf" allow="autoplay" frameborder="0">
-  </iframe> 
-</div>
-
-### Asymptotic Behavior of Cliques in Inhomogeneous W-random Graphs
-[(Report)](/pdfs/urps_report.pdf) [(Slides)](/pdfs/urps_slides.pdf)
-- [Hladký et al. (2021)](https://arxiv.org/abs/1903.10570) proved a limit theorem for the no. of cliques in W-random graphs (an inhomogeneous variant of Erdős-Rényi random graphs). In these slides, I introduce the relevant background in graphon theory,
-provide a high-level overview of Hladký et al.'s proofs & conduct numerical simulations in Python verifying their results. 
-- Independent study, advised by [Anirban Chatterjee](https://statistics.wharton.upenn.edu/profile/anirbanc/#research) & Professor [Bhaswar Bhattacharya](https://statistics.wharton.upenn.edu/profile/bhaswar/)
-(via Penn's [Undergraduate Research in Probability & Statistics](https://sites.google.com/view/urps-penn) program)
-
-<div align="center" class="fluidMedia">
-  <iframe src="/pdfs/urps_slides.pdf" allow="autoplay" frameborder="0">
-  </iframe> 
-</div>
-
-### Proving Pólya's Random Walk Theorem using Electric Network Theory
-- In these slides, I discuss the applications of electric network theory to 
-random walks on integer lattices, focusing on [Doyle & Snell's (1984)](https://math.dartmouth.edu/~doyle/docs/walks/walks.pdf) proof for Pólya's Random Walk Theorem.
-- Independent study, advised by [Eric Goodman](https://www.linkedin.com/in/etgoodman) & Professor [Mona Merling](https://www2.math.upenn.edu/~mmerling/)
-(via Math's [Directed Reading Program]((https://www2.math.upenn.edu/~tbraz/drp/)))
-<div align="center" class="fluidMedia">
-  <iframe src="/pdfs/drp_slides.pdf" allow="autoplay" frameborder="0">
   </iframe> 
 </div>
 
@@ -141,13 +114,3 @@ and verifying the correctness of the parser using QuickCheck.
 as well as integrating the kernel with the shell. 
 - Joint work with [Mati Davis](https://www.linkedin.com/in/mati-davis-816610120), [John Smith](https://www.linkedin.com/in/john-smith-v-71300015b/), [Rohan Verma](https://www.linkedin.com/in/rohanver/?trk=public_profile_browsemap), [Keshav Ramji](https://www.keshavramji.com)
 - Final project for [CIS 5480](https://boonloo.cis.upenn.edu/about/teaching/cis548/) (Operating Systems)
-
-### HomeLab
-<div align="center">
-  <img src="/images/homelab.jpg" alt="homelab" width="600" /> 
-</div>
-
-- Custom VPN + Media server, hosted on a PC salvaged from Penn's E-Waste facilities      
-- Joint work with [Aaron Shurberg](https://www.linkedin.com/in/aaron-shurberg)     
-- Final project for [CIS 1880](https://cis1880.org) (DevOps)   
-
