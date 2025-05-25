@@ -24,16 +24,17 @@ Ernest Ng
 [ICFP 2023 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) (2nd place)
 
 
-## Recent News
-- **Oct 2024**. Gave an [invited talk](./pdfs/mica_bloomberg_slides.pdf) on [Mica](https://github.com/ngernest/mica) at Bloomberg.
-- **Sept 2024**. Attended [ICFP '24](https://icfp24.sigplan.org/) & presented an [OCaml Workshop paper](./pdfs/ocaml24_mica.pdf) about [Mica](https://github.com/ngernest/mica). *Milan, Italy*
-- **Sept 2023**. Presented a [Mica](https://github.com/ngernest/mica) prototype at the [ICFP '23 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition). *Seattle, WA*
-- **Aug 2023**. Received a travel award for the [Cornell, Maryland & Max Planck Research School](https://cmmrs.mpi-sws.org) (CMMRS), held at MPI-SWS. *Saarbrücken, Germany*
-- **June 2023**. Attended the [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/) (OPLSS). *Eugene, OR*
+## Other
+Have we met before? I'd love to hear from you! I was at:
+- [ICFP '24](https://icfp24.sigplan.org) @ Milan (student volunteer)
+- [POPL '24](https://popl24.sigplan.org) @ London (student volunteer)
+- [ICFP '23](https://icfp23.sigplan.org) @ Seattle (SRC participant)
+- [CMMRS '23](https://cmmrs2023.mpi-sws.org) @ Saarbrücken
+- [OPLSS '23](https://www.cs.uoregon.edu/research/summerschool/summer23/index.php) @ Eugene
 
 ## Teaching
 At Penn, I served as a TA for the following courses:
-- [CIS 1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell 
+- [CIS 1904/1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell 
 - [CIS 2400](https://www.seas.upenn.edu/~cis2400/current/): Computer Systems
 - [CIS 3800](https://www.seas.upenn.edu/~cis3800/23fa/): Operating Systems
 - [*Software Foundations*](https://softwarefoundations.cis.upenn.edu) mini-course (abridged version of [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), part of Penn's [REPL](https://penn-repl.github.io) program)
