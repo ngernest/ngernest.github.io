@@ -4,11 +4,12 @@
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
-Hi! I'm a first-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), working on programming languages research.
-I'm interested in type systems, functional programming, proof assistants and property-based testing.
-This summer, I'll be interning at Amazon Web Services, in the Automated Reasoning group. 
+Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), working on programming languages research.
+I'm interested in functional programming, property-based testing, proof assistants and type systems. 
 
-I previously studied at [Penn](https://www.cis.upenn.edu/), majoring in Math & CS. At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I worked in industry for a year as a data engineer. 
+This summer, I'm interning with the Automated Reasoning group at AWS, working on property-based testing infrastructure for Lean.
+
+I did my undergrad at [Penn](https://www.cis.upenn.edu/), majoring in Math & CS. At Penn, I worked on [property-based testing](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html) research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I worked in industry for a year as a data engineer. 
 
 Outside of PL, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=KyzOiJ5OZbo) and running. 
 
@@ -33,7 +34,12 @@ Have we met before? I'd love to hear from you! I was at:
 - [OPLSS '23](https://www.cs.uoregon.edu/research/summerschool/summer23/index.php) @ Eugene
 
 ## Teaching
-At Penn, I served as a TA for the following courses:
+I've served as a teaching assistant for the following courses:
+
+Cornell:
+- CS 3410: Computer Systems 
+  
+Penn: 
 - [CIS 1904/1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell 
 - [CIS 2400](https://www.seas.upenn.edu/~cis2400/current/): Computer Systems
 - [CIS 3800](https://www.seas.upenn.edu/~cis3800/23fa/): Operating Systems
