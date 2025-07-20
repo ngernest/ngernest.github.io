@@ -15,7 +15,11 @@ Outside of PL, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=
 
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
-## Research 
+## Research
+- Building an Interpreter for an Imperative Hardware Interface Specification Language              
+  [Nikil Shyamsunder](https://www.linkedin.com/in/nikilshyamsunder/), [Francis Pham](https://www.linkedin.com/in/francispham-/), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)           
+  (under submission)
+
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
 [OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>
