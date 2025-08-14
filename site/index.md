@@ -16,18 +16,14 @@ Outside of PL, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
 ## Research
-- Building an Interpreter for an Imperative Hardware Interface Specification Language              
-  [Nikil Shyamsunder](https://www.linkedin.com/in/nikilshyamsunder/), [Francis Pham](https://www.linkedin.com/in/francispham-/), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)           
-  (under submission)
+- [Building an Interpreter for an Imperative Hardware Interface Specification Language](./pdfs/protocols_fmcad25_student_forum.pdf)              
+[Nikil Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://www.linkedin.com/in/francispham-/), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)           
+[FMCAD 2025 Student Forum](https://fmcad.org/FMCAD25/student_forum/)
 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
-Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)        
-[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>
-
-- [Automated Differential Testing for OCaml Modules](/pdfs/mica_icfp23src_poster.pdf)      
-Ernest Ng       
-[ICFP 2023 SRC](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition) (2nd place)
-
+Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)       
+[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>             
+<small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>
 
 ## Other
 Have we met before? I'd love to hear from you! I was at:
