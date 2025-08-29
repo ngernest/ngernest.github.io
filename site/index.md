@@ -16,7 +16,7 @@ Outside of PL, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
 ## Research
-- [Building an Interpreter for an Imperative Hardware Interface Specification Language](./pdfs/protocols_fmcad25_student_forum.pdf)              
+- Building an Interpreter for an Imperative Hardware Interface Specification Language
 [Nikil Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://www.linkedin.com/in/francispham-/), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)           
 [FMCAD 2025 Student Forum](https://fmcad.org/FMCAD25/student_forum/)
 
