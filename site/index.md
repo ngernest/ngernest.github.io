@@ -7,12 +7,12 @@
 Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), working on programming languages research.
 I'm interested in functional programming, [property-based testing (PBT)](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html), proof assistants and type systems. 
 
-This past summer, I interned with the [Automated Reasoning group at AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [PBT infrastructure for Lean](https://github.com/ngernest/chamelean) with [Mike Hicks](https://mhicks.me) & [Cody Roux](https://www.kleene.church). 
+This past summer, I interned with the [Automated Reasoning group at AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [PBT infrastructure for Lean](https://github.com/ngernest/chamelean). 
 
-I did my undergrad at [Penn](https://www.cis.upenn.edu/), majoring in Math & CS. At Penn, I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I worked in industry for a year as a data engineer. 
+I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I worked in industry for a year as a data engineer. 
 
 Outside of PL, I enjoy running & [playing the pipe organ](https://www.youtube.com/watch?v=KyzOiJ5OZbo). 
-I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) & [Amanda Mole](https://www.amandamole.com), and work part-time as an organist for Cornell's Episcopal Church.
+<!-- I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) & [Amanda Mole](https://www.amandamole.com), and work part-time as an organist for Cornell's Episcopal Church. -->
 
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
