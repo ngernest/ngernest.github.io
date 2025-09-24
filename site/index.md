@@ -4,15 +4,13 @@
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
-Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), working on programming languages research.
-I'm interested in functional programming, [property-based testing (PBT)](https://www.seas.upenn.edu/~cis5520/current/lectures/soln/05-quickcheck/QuickCheck.html), proof assistants and type systems. 
+Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), working on programming languages & systems research. 
 
-This past summer, I interned with the [Automated Reasoning group at AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [PBT infrastructure for Lean](https://github.com/ngernest/chamelean). 
+This past summer, I interned with the [Automated Reasoning group at AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean). 
 
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I worked in industry for a year as a data engineer. 
 
-Outside of PL, I enjoy running & [playing the pipe organ](https://www.youtube.com/watch?v=KyzOiJ5OZbo). 
-<!-- I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) & [Amanda Mole](https://www.amandamole.com), and work part-time as an organist for Cornell's Episcopal Church. -->
+Outside of PL, I enjoy running & [playing the pipe organ](https://www.youtube.com/watch?v=KyzOiJ5OZbo). I study organ performance with Profs. [Annette Richards](https://music.cornell.edu/annette-richards) & [Amanda Mole](https://www.amandamole.com), and serve as an organist for [Cornell's Episcopal Church](https://www.episcopalchurchatcornell.org).
 
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
@@ -46,6 +44,6 @@ Penn:
 - [CIS 1904/1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell 
 - [CIS 2400](https://www.seas.upenn.edu/~cis2400/current/): Computer Systems
 - [CIS 3800](https://www.seas.upenn.edu/~cis3800/23fa/): Operating Systems
-- [*Software Foundations*](https://softwarefoundations.cis.upenn.edu) mini-course (abridged version of [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), part of Penn's [REPL](https://penn-repl.github.io) program)
+- [*Software Foundations*](https://softwarefoundations.cis.upenn.edu) Rocq mini-course (abridged version of [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), part of Penn's [REPL](https://penn-repl.github.io) program)
 - [CIS 5450](https://sites.google.com/seas.upenn.edu/cis545-22f): Big Data Analytics (Head TA, Fall '22)
 - [CIS 5500](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/): Databases
