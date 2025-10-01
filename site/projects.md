@@ -19,12 +19,23 @@
 </style>  
 ## Contents
 - [PL Research / Projects](#pl)
-- [Literature Reviews / Independent Studies](#litreviews)
 - [Lectures](#lectures)
 - [Other Programming Projects](#others)
 
 ********************************************************************************
 ## <a name="pl"></a> PL Research / Projects
+
+### Chamelean: Property-Based Testing for Lean via Metaprogramming
+[(GitHub)](https://github.com/ngernest/chamelean)
+- Chamelean is an extension of Lean's [Plausible](https://github.com/leanprover-community/plausible) property-based testing (PBT) library, which takes user-defined inductive relations and automatically derives specialized random generators, enumerators and checkers
+- I used Lean's [metaprogramming facilities](https://leanprover-community.github.io/lean4-metaprogramming-book/) to implement algorithms used by Rocq's [QuickChick](https://github.com/QuickChick/QuickChick) PBT framework to compile inductive relations into correct-by-construction PBT generators
+  - For details, see these papers from [POPL '18](https://dl.acm.org/doi/10.1145/3158133) & [PLDI '22](https://dl.acm.org/doi/10.1145/3519939.3523707)
+- Work done during an internship at Amazon Web Services, advised by [Mike Hicks](https://mhicks.me) & [Cody Roux](https://www.kleene.church), with collaborators at [UMD](https://plum-umd.github.io) ([Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Harry Goldstein](https://harrisongoldste.in) & [Leo Lampropoulos](https://lemonidas.github.io))
+
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/chamelean_public_slides.pdf" allow="autoplay" frameborder="0">
+  </iframe> 
+</div>
 
 ### Mica: Automated Differential Testing for OCaml Modules
 [(OCaml Workshop '24 paper)](/pdfs/ocaml24_mica.pdf) [(ICFP '23 SRC poster)](/pdfs/mica_icfp23src_poster.pdf) [(GitHub)](https://github.com/ngernest/mica) [(Web demo)](https://ngernest.github.io/mica/demo)
@@ -32,7 +43,7 @@
 - Available to [install via Opam](https://opam.ocaml.org/packages/ppx_mica/)
 - Presented paper at the [OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) (co-located with ICFP '24)
 - Received Second Prize at the [ICFP '23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition)     
-- Advised by [Harry Goldstein](https://harrisongoldste.in) & Professor [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
+- Advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)
 <div align="center" class="fluidMedia">
   <iframe src="/pdfs/ocaml24_mica.pdf" allow="autoplay" frameborder="0">
   </iframe> 
@@ -42,7 +53,7 @@
 [(GitHub)](https://github.com/ngernest/regexes)
 - Mechanized Coq proofs about the equivalence of [Brzozowski derivatives](https://harrisongoldste.in/languages/2017/09/30/derivatives-of-regular-expressions.html), [Antimirov derivatives](https://semantic-domain.blogspot.com/2013/11/antimirov-derivatives-for-regular.html), and their [zipper](https://en.wikipedia.org/wiki/Zipper_(data_structure)) representation ([Edelmann 2020](https://infoscience.epfl.ch/server/api/core/bitstreams/4fcb9f0f-7ac1-484f-823c-c19de39dd9ff/content))
 - Implemented executable derivative-based regex matchers in OCaml, tested using QuickCheck
-- Joint work with [Laura Zielinski](https://www.linkedin.com/in/lauraczielinski/), advised by [Jules Jacobs](https://julesjacobs.com) and Professor [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
+- Joint work with [Laura Zielinski](https://www.linkedin.com/in/lauraczielinski/), advised by [Jules Jacobs](https://julesjacobs.com) and [Nate Foster](https://www.cs.cornell.edu/~jnfoster/)
 - Final project for [CS 6115](https://www.cs.cornell.edu/courses/cs6115/2024fa/) (Certified Software Systems)
 <div align="center" class="fluidMedia">
   <iframe src="/pdfs/6115_project_slides.pdf" allow="autoplay" frameborder="0">
@@ -57,14 +68,14 @@
 
 - More details in the [blog post](https://www.cs.cornell.edu/courses/cs6120/2025sp/blog/flat-bril/) about this project! 
 - Used Rust to implement a [flattened](https://www.cs.cornell.edu/~asampson/blog/flattening.html) representation for the [Bril IR](https://capra.cs.cornell.edu/bril/) & an interpreter that works natively over the flattened representation
-- Joint work with [Sam Breckenridge](https://www.linkedin.com/in/samuel-breckenridge-4729b719a/) and [Katherine Wu](https://katherinewu312.github.io), advised by Professor [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
+- Joint work with [Sam Breckenridge](https://www.linkedin.com/in/samuel-breckenridge-4729b719a/) and [Katherine Wu](https://katherinewu312.github.io), advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/)
 - Final project for [CS 6120](https://www.cs.cornell.edu/courses/cs6120/2025sp/) (Advanced Compilers)
 
 ### Mechanized Type Soundness Proofs for the Hindley-Milner Type System
 - Mechanized type soundness proofs for the Hindley-Milner (or "Damas-Milner") type system using the 
 [locally nameless representation](https://chargueraud.org/research/2009/ln/main.pdf) in Coq, along with the [LNgen](https://github.com/plclub/lngen) & [Ott](https://github.com/ott-lang/ott) metatheory tools.
 - The proofs are for the non-syntax-directed version of the HM type system, as presented in [Peyton Jones et al. (2007)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/putting.pdf).
-- Joint work with [Gary Chen](https://www.hanxic.com) & [Zed Wu](https://www.linkedin.com/in/zhiyuan-wu/), advised by Professor [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/])
+- Joint work with [Gary Chen](https://www.hanxic.com) & [Zed Wu](https://www.linkedin.com/in/zhiyuan-wu/), advised by [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/])
 - Final project for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
 <div align="center" class="fluidMedia">
   <iframe src="/pdfs/6700_report.pdf" allow="autoplay" frameborder="0">
