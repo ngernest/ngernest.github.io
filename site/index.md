@@ -15,9 +15,9 @@ Outside of PL, I enjoy running & [playing the pipe organ](https://www.youtube.co
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
 ## Research
-- Building an Interpreter for an Imperative Hardware Interface Specification Language                              
-[Nikil Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)           
-[FMCAD 2025 Student Forum](https://fmcad.org/FMCAD25/student_forum/)
+- Building an Interpreter for an Imperative Hardware Interface Specification Language                                                          
+[Nikil Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
+[FMCAD 2025 Student Forum](https://fmcad.org/FMCAD25/student_forum/) <small>[[Code]](https://github.com/cucapra/protocols) (Ongoing work)</small>  
 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)       
