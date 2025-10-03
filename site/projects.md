@@ -18,12 +18,12 @@
   }
 </style>  
 ## Contents
-- [PL Research / Projects](#pl)
-- [Lectures](#lectures)
+- [PL Research / Projects](#project)
+- [Presentations / Lectures](#lectures)
 - [Other Programming Projects](#others)
 
 ********************************************************************************
-## <a name="pl"></a> PL Research / Projects
+## <a name="projects"></a> Research / Projects
 
 ### Chamelean: Property-Based Testing for Lean via Metaprogramming
 [(GitHub)](https://github.com/ngernest/chamelean)
@@ -84,6 +84,14 @@
 
 ********************************************************************************
 ## <a name="lectures"></a> Lectures
+
+### seL4 : Formal Verification of an OS Kernel (Paper Presentation)
+- Slides for a paper presentation I gave for [CS 6410](https://www.cs.cornell.edu/courses/cs6410/2025fa/home.html) (Advanced Systems) 
+- In these slides, I present [Klein et al's (SOSP 2009)](https://dl.acm.org/doi/10.1145/1629575.1629596) paper on the seL4 operating system and its role in the history of formally-verified OSes
+<div align="center" class="fluidMedia">
+  <iframe src="/pdfs/sel4_slides.pdf" allow="autoplay">
+  </iframe> 
+</div>
 
 ### Programming in the Untyped λ-calculus 
 - Slides for a talk I gave for [CIS 6700](https://github.com/plclub/cis6700-23sp) (Advanced Topics in Programming Languages)
