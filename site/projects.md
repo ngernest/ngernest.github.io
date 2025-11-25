@@ -18,7 +18,7 @@
   }
 </style>  
 ## Contents
-- [PL Research / Projects](#project)
+- [Research / Projects](#projects)
 - [Presentations / Lectures](#lectures)
 - [Other Programming Projects](#others)
 
