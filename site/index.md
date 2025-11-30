@@ -6,7 +6,8 @@
 
 Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
 
-This past summer, I interned with the [Automated Reasoning group at AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean). 
+I recently interned at [Amazon Web Services](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean)
+with [Cody Roux](https://www.kleene.church) & [Mike Hicks](https://mhicks.me).
 
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I worked in industry for a year as a data engineer. 
 
