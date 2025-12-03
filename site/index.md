@@ -39,12 +39,13 @@ Have we met before? I'd love to hear from you! I was at:
 I've served as a teaching assistant for the following courses:
 
 Cornell:
-- [CS 3410](https://www.cs.cornell.edu/courses/cs3410/2025fa/): Computer Systems 
+- [CS 3410](https://www.cs.cornell.edu/courses/cs3410/2025fa/): Computer Systems (Fall 2025)
+- CS 4610: Formal Verification (Spring 2026) 
   
 Penn: 
-- [CIS 1904/1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell 
-- [CIS 2400](https://www.seas.upenn.edu/~cis2400/current/): Computer Systems
-- [CIS 3800](https://www.seas.upenn.edu/~cis3800/23fa/): Operating Systems
-- [*Software Foundations*](https://softwarefoundations.cis.upenn.edu) Rocq mini-course (abridged version of [CIS 5000](https://www.seas.upenn.edu/~cis5000/current/index.html), part of Penn's [REPL](https://penn-repl.github.io) program)
-- [CIS 5450](https://sites.google.com/seas.upenn.edu/cis545-22f): Big Data Analytics (Head TA, Fall '22)
-- [CIS 5500](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/): Databases
+- [CIS 1904/1940](https://www.seas.upenn.edu/~cis1940/spring23/): Introduction to Haskell (Spring 2023)
+- [CIS 2400](https://www.seas.upenn.edu/~cis2400/current/): Computer Systems (Fall 2022)
+- [CIS 3800](https://www.seas.upenn.edu/~cis3800/23fa/): Operating Systems (Fall 2023)
+- [*Software Foundations*](https://softwarefoundations.cis.upenn.edu) Rocq mini-course (for Penn's [REPL](https://penn-repl.github.io) program) (Summer 2023)
+- [CIS 5450](https://sites.google.com/seas.upenn.edu/cis545-22f): Big Data Analytics (Spring - Fall 2022, Head TA for Fall) 
+- [CIS 5500](https://online.seas.upenn.edu/courses/cis-550-database-information-systems/): Databases (Summer 2022)
