@@ -11,7 +11,7 @@ with [Cody Roux](https://www.kleene.church) & [Mike Hicks](https://mhicks.me).
 
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/). Before grad school, I worked in industry for a year as a data engineer. 
 
-Outside of CS, I enjoy running & [playing the pipe organ](https://www.youtube.com/watch?v=KyzOiJ5OZbo). I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) & [Amanda Mole](https://www.amandamole.com), and work as an organist for [Cornell's Episcopal Church](https://www.episcopalchurchatcornell.org).
+Outside of CS, I enjoy running & [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE). I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) & [Amanda Mole](https://www.amandamole.com), and work as an organist for [Cornell's Episcopal Church](https://www.episcopalchurchatcornell.org).
 
 Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
 
