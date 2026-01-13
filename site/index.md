@@ -5,6 +5,9 @@
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
 Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
+I'm currently working on:
+- A DSL that improves waveform debugging for hardware communication protocols
+- Type-based techniques for synthesizing and tuning random generators in Lean
 
 I recently interned at [Amazon Web Services](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean)
 with [Cody Roux](https://www.kleene.church) & [Mike Hicks](https://mhicks.me).
