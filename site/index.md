@@ -5,18 +5,16 @@
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
 Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
-I'm currently working on:
-- A DSL that facilitates waveform debugging of hardware communication protocols
-- Type-based synthesis and tuning of random generators in Lean
+I'm currently working on a DSL for specifying hardware communication protocols, with the aim of making it easier to test and debug such protocols.
 
 I recently interned at [Amazon Web Services](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean)
 with [Cody Roux](https://www.kleene.church) & [Mike Hicks](https://mhicks.me).
 
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
-Outside of CS, I enjoy running & [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE). I study organ performance with [Amanda Mole](https://www.amandamole.com) & [Annette Richards](https://music.cornell.edu/annette-richards), and work as an organist for [Cornell's Episcopal Church](https://www.episcopalchurchatcornell.org).
+Outside of CS, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE). I study organ performance with [Amanda Mole](https://www.amandamole.com) & [Annette Richards](https://music.cornell.edu/annette-richards), and work as an organist for [Cornell's Episcopal Church](https://www.episcopalchurchatcornell.org).
 
-Feel free to take a look at my [resume](./pdfs/resume.pdf), or the [projects](./projects) page on this site! 
+Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./projects).
 
 ## Research
 - Building an Interpreter for an Imperative Hardware Interface Specification Language                                                          
@@ -29,7 +27,8 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf)), and gave an [invited talk](./pdfs/mica_bloomberg_slides.pdf) for Bloomberg's OCaml group</small>                
 
 ## Other
-Have we met before? I'd love to hear from you! I was at:
+Have we met before at a conference? I'd love to hear from you! I attended / will be at:
+- ASPLOS '26 @ Pittsburgh 
 - [Upstate PL](https://www.cs.cornell.edu/upstate-pl/) @ Cornell
 - [NJPLS](https://njpls.org) @ [Cornell Tech](https://njpls.org/dec2024.html) / [Princeton](https://njpls.org/nov2023.html) / [Penn](https://njpls.org/may2023.html)
 - [ICFP '24](https://icfp24.sigplan.org) @ Milan (student volunteer)
@@ -42,7 +41,7 @@ Have we met before? I'd love to hear from you! I was at:
 I've served as a teaching assistant for the following courses:
 
 Cornell:
-- CS 4610: Formal Verification (Spring 2026) 
+- CS 4610: Formal Verification (Rocq) (Spring 2026) 
 - [CS 3410](https://www.cs.cornell.edu/courses/cs3410/2025fa/): Computer Systems (Fall 2025)
   
 Penn: 
