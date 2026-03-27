@@ -5,10 +5,9 @@
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
 Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
-I'm currently working on a DSL for specifying hardware communication protocols, with the aim of making it easier to test and debug such protocols.
+I'm currently working on a DSL for specifying hardware communication protocols, with the aim of making it easier to test and debug such protocols. 
 
-I recently interned at [Amazon Web Services](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean)
-with [Cody Roux](https://www.kleene.church) & [Mike Hicks](https://mhicks.me).
+During the summers of 2025 & 2026, I'm a research intern with the Automated Reasoning Group at [AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean) with [Mike Hicks](https://mhicks.me).
 
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
@@ -27,8 +26,8 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf)), and gave an [invited talk](./pdfs/mica_bloomberg_slides.pdf) for Bloomberg's OCaml group</small>                
 
 ## Other
-Have we met before at a conference? I'd love to hear from you! I attended / will be at:
-- ASPLOS '26 @ Pittsburgh 
+Have we met before at a conference? I'd love to hear from you! I was at:
+- [ASPLOS '26](https://www.asplos-conference.org/asplos2026/) @ Pittsburgh 
 - [Upstate PL](https://www.cs.cornell.edu/upstate-pl/) @ Cornell
 - [NJPLS](https://njpls.org) @ [Cornell Tech](https://njpls.org/dec2024.html) / [Princeton](https://njpls.org/nov2023.html) / [Penn](https://njpls.org/may2023.html)
 - [ICFP '24](https://icfp24.sigplan.org) @ Milan (student volunteer)
