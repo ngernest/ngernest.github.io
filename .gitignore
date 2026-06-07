@@ -4,3 +4,4 @@ build/pdfs
 build/images
 build/blog
 .vscode/*
+_opam/
