@@ -5,9 +5,10 @@
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
 Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
-I'm currently working on a DSL for specifying hardware communication protocols, with the aim of making it easier to test and debug such protocols. 
+I'm broadly interested in operating systems, functional programming, proof assistants and property-based testing. 
 
-In Summer 2025/2026, I'm a research intern with the Automated Reasoning Group at [AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean).
+At Cornell, I'm currently working on a DSL for specifying hardware communication protocols, with the aim of making it easier to test and debug such protocols. At AWS (Summers 2025/2026), I'm working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean), 
+as a research intern with the [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning).
 
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
@@ -30,7 +31,7 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 - **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_njpls_FINAL.pdf)                                                         
   + [YArch (Young Architect Workshop) @ ISCA '26](https://yarch2026.epfl.ch), June 2026
   + [EPFL Programming Languages & Formal Methods Seminar](https://plfm.epfl.ch/seminar/) (Invited), May 2026
-  + [NJPLS (New Jersey Programming Langauges & Systems Seminar)](https://njpls.org/may2026.html), May 2026
+  + [NJPLS (New Jersey Programming Languages & Systems Seminar)](https://njpls.org/may2026.html), May 2026
 
 - **Chamelean: Property-Based Testing for Lean via Metaprogramming** [(slides)](./pdfs/chamelean_public_slides.pdf) (Work done at AWS)
   + [Cornell Programming Languages Discussion Group](https://pl.cs.cornell.edu/pldg/2026sp/), September 2025
