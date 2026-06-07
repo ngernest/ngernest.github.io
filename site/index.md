@@ -7,7 +7,7 @@
 Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
 I'm currently working on a DSL for specifying hardware communication protocols, with the aim of making it easier to test and debug such protocols. 
 
-During the summers of 2025 & 2026, I'm a research intern with the Automated Reasoning Group at [AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean).
+In Summer 2025/2026, I'm a research intern with the Automated Reasoning Group at [AWS](https://www.amazon.science/research-areas/automated-reasoning), working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean).
 
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
@@ -24,16 +24,33 @@ Ongoing work <small>[[Code]](https://github.com/cucapra/protocols)</small>
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)       
 [OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>             
-<small>(Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf)), and gave an [invited talk](./pdfs/mica_bloomberg_slides.pdf) for Bloomberg's OCaml group)</small>                
+<small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>                
+
+## Talks
+- **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_njpls_FINAL.pdf)                                                         
+  + [YArch (Young Architect Workshop) @ ISCA '26](https://yarch2026.epfl.ch), June 2026
+  + [EPFL Programming Languages & Formal Methods Seminar](https://plfm.epfl.ch/seminar/) (Invited), May 2026
+  + [NJPLS (New Jersey Programming Langauges & Systems Seminar)](https://njpls.org/may2026.html), May 2026
+
+- **Chamelean: Property-Based Testing for Lean via Metaprogramming** [(slides)](./pdfs/chamelean_public_slides.pdf) (Work done at AWS)
+  + [Cornell Programming Languages Discussion Group](https://pl.cs.cornell.edu/pldg/2026sp/), September 2025
+
+- **Mica: Automated Differential Testing for OCaml Modules** [(slides)](./pdfs/mica_bloomberg_slides.pdf)
+  + Bloomberg OCaml Developers Seminar (Invited), September 2024 
+  + [OCaml Workshop @ ICFP '24](https://icfp24.sigplan.org/home/ocaml-2024#About), September 2024
+  + [ICFP '23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition), September 2023
+
 
 ## Other
-Have we met before at a conference? I'd love to hear from you! I was at:
+Have we met before at a conference? I'd love to hear from you! I was / will be at:
+- [YArch @ ISCA '26](https://yarch2026.epfl.ch) @ Raleigh
+- [Brown Systems Week '26](https://brown-systems-week.github.io) @ Providence
 - [ASPLOS '26](https://www.asplos-conference.org/asplos2026/) @ Pittsburgh 
 - [Upstate PL](https://www.cs.cornell.edu/upstate-pl/) @ Cornell
-- [NJPLS](https://njpls.org) @ [Cornell Tech](https://njpls.org/dec2024.html) / [Princeton](https://njpls.org/nov2023.html) / [Penn](https://njpls.org/may2023.html)
-- [ICFP '24](https://icfp24.sigplan.org) @ Milan (student volunteer)
-- [POPL '24](https://popl24.sigplan.org) @ London (student volunteer)
-- [ICFP '23](https://icfp23.sigplan.org) @ Seattle (SRC participant)
+- [NJPLS](https://njpls.org) @ [Cornell Tech (Dec '24)](https://njpls.org/dec2024.html) / [Princeton (Nov '23)](https://njpls.org/nov2023.html) / [Penn (May '23 + May '26)](https://njpls.org/may2026.html)
+- [ICFP '24](https://icfp24.sigplan.org) @ Milan 
+- [POPL '24](https://popl24.sigplan.org) @ London 
+- [ICFP '23](https://icfp23.sigplan.org) @ Seattle 
 - [CMMRS '23](https://cmmrs2023.mpi-sws.org) @ Saarbrücken
 - [OPLSS '23](https://www.cs.uoregon.edu/research/summerschool/summer23/index.php) @ Eugene
 
@@ -41,7 +58,7 @@ Have we met before at a conference? I'd love to hear from you! I was at:
 I've served as a teaching assistant for the following courses:
 
 Cornell:
-- CS 4610: Formal Verification (Rocq) (Spring 2026) 
+- [CS 4160](https://classes.cornell.edu/browse/roster/SP26/class/CS/4160): Formal Verification (Rocq) (Spring 2026) 
 - [CS 3410](https://www.cs.cornell.edu/courses/cs3410/2025fa/): Computer Systems (Fall 2025)
   
 Penn: 
