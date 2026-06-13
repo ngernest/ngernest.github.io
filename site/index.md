@@ -19,7 +19,7 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 ## Research
 - Specifying Hardware Communication as Programs                                                          
 Ernest Ng, [Nikil Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
-Ongoing work <small>[[Code]](https://github.com/cucapra/protocols)</small>      
+Ongoing work <small>[[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
 <small> (An initial version of this work was presented by Nikil at the [FMCAD '25 Student Forum](https://fmcad.org/FMCAD25/student_forum/)) </small>
 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
@@ -28,7 +28,7 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>                
 
 ## Talks
-- **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_njpls_FINAL.pdf)                                                         
+- **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_epfl_FINAL.pdf)                                                         
   + [YArch (Young Architect Workshop) @ ISCA '26](https://yarch2026.epfl.ch), June 2026
   + [EPFL Programming Languages & Formal Methods Seminar](https://plfm.epfl.ch/seminar/) (Invited), May 2026
   + [NJPLS (New Jersey Programming Languages & Systems Seminar)](https://njpls.org/may2026.html), May 2026
@@ -47,9 +47,10 @@ Have we met before at a conference? I'd love to hear from you! I was / will be a
 - [YArch @ ISCA '26](https://yarch2026.epfl.ch) @ Raleigh
 - [Brown Systems Week '26](https://brown-systems-week.github.io) @ Providence
 - [ASPLOS '26](https://www.asplos-conference.org/asplos2026/) @ Pittsburgh 
-- [Upstate PL](https://www.cs.cornell.edu/upstate-pl/) @ Cornell
+- [Upstate PL (Aug '25)](https://www.cs.cornell.edu/upstate-pl/) @ Cornell
 - [NJPLS](https://njpls.org) @ [Cornell Tech (Dec '24)](https://njpls.org/dec2024.html) / [Princeton (Nov '23)](https://njpls.org/nov2023.html) / [Penn (May '23 + May '26)](https://njpls.org/may2026.html)
-- [ICFP '24](https://icfp24.sigplan.org) @ Milan 
+- [ICFP '24](https://icfp24.sigplan.org) @ Milan
+- [IFIP WG 2.11 (March '24)](https://mw.hh.se/wg211/index.php?title=WG211/M23Schedule) @ Philadelphia 
 - [POPL '24](https://popl24.sigplan.org) @ London 
 - [ICFP '23](https://icfp23.sigplan.org) @ Seattle 
 - [CMMRS '23](https://cmmrs2023.mpi-sws.org) @ Saarbrücken
