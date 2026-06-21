@@ -43,7 +43,7 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 
 
 ## Other
-Have we met before? I'd love to hear from you! I was at:
+Have we met before? I'd love to hear from you! I was at the following:
 
 <table>
 <tr>
