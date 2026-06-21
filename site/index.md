@@ -43,18 +43,44 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 
 
 ## Other
-Have we met before at a conference? I'd love to hear from you! I was / will be at:
-- [YArch @ ISCA '26](https://yarch2026.epfl.ch) @ Raleigh
-- [Brown Systems Week '26](https://brown-systems-week.github.io) @ Providence
-- [ASPLOS '26](https://www.asplos-conference.org/asplos2026/) @ Pittsburgh 
-- [Upstate PL (Aug '25)](https://www.cs.cornell.edu/upstate-pl/) @ Cornell
-- [NJPLS](https://njpls.org) @ [Cornell Tech (Dec '24)](https://njpls.org/dec2024.html) / [Princeton (Nov '23)](https://njpls.org/nov2023.html) / [Penn (May '23 + May '26)](https://njpls.org/may2026.html)
-- [ICFP '24](https://icfp24.sigplan.org) @ Milan
-- [IFIP WG 2.11 (March '24)](https://mw.hh.se/wg211/index.php?title=WG211/M23Schedule) @ Philadelphia 
-- [POPL '24](https://popl24.sigplan.org) @ London 
-- [ICFP '23](https://icfp23.sigplan.org) @ Seattle 
-- [CMMRS '23](https://cmmrs2023.mpi-sws.org) @ Saarbrücken
-- [OPLSS '23](https://www.cs.uoregon.edu/research/summerschool/summer23/index.php) @ Eugene
+Have we met before? I'd love to hear from you! I was at:
+
+<table>
+<tr>
+  <th>Conferences</th>
+  <th>Workshops</th>
+  <th>Summer schools</th>
+</tr>
+<tr>
+  <td>
+    <ul>
+      <li><a href="https://yarch2026.epfl.ch">YArch @ ISCA '26</a> @ Raleigh</li>
+      <li><a href="https://www.asplos-conference.org/asplos2026/">ASPLOS '26</a> @ Pittsburgh</li>
+      <li><a href="https://icfp24.sigplan.org">ICFP '24</a> @ Milan</li>
+      <li><a href="https://popl24.sigplan.org">POPL '24</a> @ London</li>
+      <li><a href="https://icfp23.sigplan.org">ICFP '23</a> @ Seattle</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="https://njpls.org/may2026.html">NJPLS (May '26)</a> @ Penn</li>
+      <li><a href="https://plr.csail.mit.edu">MIT PL Review '26</a> @ Cambridge</li>
+      <li><a href="https://www.cs.cornell.edu/upstate-pl/">Upstate PL (Aug '25)</a> @ Cornell</li>
+      <li><a href="https://njpls.org/dec2024.html">NJPLS (Dec '24)</a> @ Cornell Tech</li>
+      <li><a href="https://mw.hh.se/wg211/index.php?title=WG211/M23Schedule">IFIP WG 2.11 (March '24)</a> @ Philadelphia</li>
+      <li><a href="https://njpls.org/nov2023.html">NJPLS (Nov '23)</a> @ Princeton</li>
+      <li><a href="https://njpls.org/may2023.html">NJPLS (May '23)</a> @ Penn</li>
+    </ul>
+  </td>
+  <td>
+    <ul>
+      <li><a href="https://brown-systems-week.github.io">Brown Systems Week '26</a> @ Providence</li>
+      <li><a href="https://cmmrs2023.mpi-sws.org">CMMRS '23</a> @ Saarbrücken</li>
+      <li><a href="https://www.cs.uoregon.edu/research/summerschool/summer23/index.php">OPLSS '23</a> @ Eugene</li>
+    </ul>
+  </td>
+</tr>
+</table>
 
 ## Teaching
 I've served as a teaching assistant for the following courses:
