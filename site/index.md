@@ -17,9 +17,9 @@ Outside of CS, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=
 Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./projects).
 
 ## Research
-- Specifying Hardware Communication as Programs                                                          
+- Specifying Hardware Communication as Programs                                                         
 Ernest Ng, [Nikil Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
-Ongoing work <small>[[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
+Ongoing work, presented at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) <small>[[Poster]](/pdfs/yarch2026_poster.pdf) [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
 <small> (An initial version of this work was presented by Nikil at the [FMCAD '25 Student Forum](https://fmcad.org/FMCAD25/student_forum/)) </small>
 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
