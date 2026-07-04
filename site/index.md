@@ -28,7 +28,8 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>                
 
 ## Talks
-- **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_epfl_FINAL.pdf)                                                         
+- **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_mit_FINAL.pdf)                                                         
+  + [MIT FLAME Lab Seminar](https://flame.csail.mit.edu) (Invited), July 2026
   + [YArch (Young Architect Workshop) @ ISCA '26](https://yarch2026.epfl.ch), June 2026
   + [EPFL Programming Languages & Formal Methods Seminar](https://plfm.epfl.ch/seminar/) (Invited), May 2026
   + [NJPLS (New Jersey Programming Languages & Systems Seminar)](https://njpls.org/may2026.html), May 2026
@@ -54,7 +55,6 @@ Have we met before? I'd love to hear from you! I was at the following:
 <tr>
   <td>
     <ul>
-      <li><a href="https://yarch2026.epfl.ch">YArch @ ISCA '26</a> @ Raleigh</li>
       <li><a href="https://www.asplos-conference.org/asplos2026/">ASPLOS '26</a> @ Pittsburgh</li>
       <li><a href="https://icfp24.sigplan.org">ICFP '24</a> @ Milan</li>
       <li><a href="https://popl24.sigplan.org">POPL '24</a> @ London</li>
@@ -63,6 +63,7 @@ Have we met before? I'd love to hear from you! I was at the following:
   </td>
   <td>
     <ul>
+      <li><a href="https://yarch2026.epfl.ch">YArch @ ISCA '26</a> @ Raleigh</li>
       <li><a href="https://njpls.org/may2026.html">NJPLS (May '26)</a> @ Penn</li>
       <li><a href="https://plr.csail.mit.edu">MIT PL Review '26</a> @ Cambridge</li>
       <li><a href="https://www.cs.cornell.edu/upstate-pl/">Upstate PL (Aug '25)</a> @ Cornell</li>
