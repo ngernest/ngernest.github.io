@@ -4,8 +4,8 @@
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
-Hi! I'm a second-year Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
-I'm broadly interested in operating systems, functional programming, proof assistants and property-based testing. 
+Hi! I'm a Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
+I'm broadly interested in functional programming, proof assistants and property-based testing. 
 
 At Cornell, I'm currently working on a DSL for specifying hardware communication protocols, with the aim of making it easier to test and debug such protocols. At AWS (Summers 2025/2026), I'm working on [property-based testing (PBT) infrastructure for Lean](https://github.com/ngernest/chamelean), 
 as a research intern with the [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning).
