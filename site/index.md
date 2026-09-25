@@ -29,7 +29,7 @@ Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](h
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>                
 
 ## Talks
-- **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_mit_FINAL.pdf)                                                         
+- **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_csl_FINAL.pdf)                                                         
   + [MIT FLAME Lab Seminar](https://flame.csail.mit.edu) (Invited), July 2026
   + [YArch (Young Architect Workshop) @ ISCA '26](https://yarch2026.epfl.ch), June 2026
   + [EPFL Programming Languages & Formal Methods Seminar](https://plfm.epfl.ch/seminar/) (Invited), May 2026
