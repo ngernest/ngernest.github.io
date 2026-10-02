@@ -13,7 +13,7 @@ I'm currently working on two projects:
 During the summers of 2025 & 2026, I interned with the AWS [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning).
 I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
-Outside of CS, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE). I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) and [Amanda Mole](https://www.amandamole.com), and work as an organist for [Cornell's Episcopal Church](https://www.episcopalchurchatcornell.org).
+Outside of CS, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE)! I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) and [Amanda Mole](https://www.amandamole.com).
 
 Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./projects).
 
