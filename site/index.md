@@ -7,11 +7,11 @@
 Hi! I'm a Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
  
 I'm currently working on two projects:
-- (With collaborators from Cornell) A DSL for specifying communication protocols at the register-transfer level (RTL), with the aim of making it easier to test and debug such protocols
-- (With collaborators from AWS, Buffalo and Maryland) New abstractions for property-based testing (PBT) generators in Lean, and deploying PBT in industry
+- (With collaborators at Cornell) A DSL for specifying communication protocols at the register-transfer level (RTL), with the aim of making it easier to test and debug such protocols
+- (With collaborators at AWS, Buffalo and Maryland) New abstractions for property-based testing (PBT) generators in Lean, and deploying PBT in industry
 
-During the summers of 2025 & 2026, I interned with the AWS [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning).
-I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
+During the summers of 2025 & 2026, I interned with the AWS [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) in Boston, working 
+on property-based testing infrastructure in Lean. I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
 Outside of CS, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE)! I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) and [Amanda Mole](https://www.amandamole.com).
 
