@@ -7,21 +7,32 @@
 Hi! I'm a Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
  
 I'm currently working on two projects:
-- (With collaborators at Cornell) A DSL for specifying communication protocols at the register-transfer level (RTL), with the aim of making it easier to test and debug such protocols
-- (With collaborators at AWS, Buffalo and Maryland) New abstractions for property-based testing (PBT) generators in Lean, and deploying PBT in industry
+- (With collaborators at Cornell) A DSL for specifying hardware communication protocols, serving as a single source of truth for testing and debugging tools (e.g., drivers and monitors)
+- (With collaborators at AWS, Buffalo and Maryland) New foundational abstractions for property-based testing (PBT) generators in Lean, 
+which allow us to gain stronger correctness and distributional guarantees
 
-During the summers of 2025 & 2026, I interned with the AWS [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) in Boston, working 
-on property-based testing infrastructure in Lean. I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
+During Summer 2025 / 2026, I interned with the AWS [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) in Boston, working 
+on PBT infrastructure in Lean. I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
 Outside of CS, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE)! I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) and [Amanda Mole](https://www.amandamole.com).
 
 Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./projects).
 
 ## Research
+
+- Underpinning Property-Based Testing             
+  Ernest Ng, [Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://katherine-hough.github.io), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
+  Under submission
+
+- Compiling Imperative Hardware Protocol Specifications to Hardware                  
+  [Nikil V. Shyamsunder](https://nikilshyamsunder.com), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)             
+  Under submission
+
 - Specifying Hardware Communication as Programs                                                         
-Ernest Ng, [Nikil Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
-Ongoing work, presented at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) <small>[[Poster]](/pdfs/yarch2026_poster.pdf) [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
-<small> (An initial version of this work was presented by Nikil at the [FMCAD '25 Student Forum](https://fmcad.org/FMCAD25/student_forum/)) </small>
+Ernest Ng, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
+Under submission [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
+(An early version of this work appeared at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf))
+
 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)       
