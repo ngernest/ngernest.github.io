@@ -1,17 +1,16 @@
 ## About me
-**Email**: [ernest@cs.cornell.edu](mailto:ernest@cs.cornell.edu)  
+**Email**: [eyn5@cs.cornell.edu](mailto:eyn5@cornell.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)         
 
 <img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
-Hi! I'm a Computer Science PhD student at [Cornell](https://www.cs.cornell.edu). I work on programming languages & systems research in the [Capra](https://capra.cs.cornell.edu) lab, advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) & [Kevin Laeufer](https://kevinlaeufer.com). 
+Hi! I'm a Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Capra](https://capra.cs.cornell.edu) lab. My research interests are broadly in programming languages, systems and computer architecture.
  
 I'm currently working on two projects:
-- (With collaborators at Cornell) A DSL for specifying hardware communication protocols, serving as a single source of truth for testing and debugging tools (e.g., drivers and monitors)
-- (With collaborators at AWS, Buffalo and Maryland) New foundational abstractions for property-based testing (PBT) generators in Lean, 
-which allow us to gain stronger correctness and distributional guarantees
+- (With collaborators at Cornell) A DSL for specifying hardware communication protocols
+- (With collaborators at AWS, Buffalo and Maryland) New abstractions for property-based testing (PBT) generators in Lean
 
-During Summer 2025 / 2026, I interned with the AWS [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) in Boston, working 
+I've interned twice with the AWS [Automated Reasoning Group](https://www.amazon.science/research-areas/automated-reasoning) in Boston, working 
 on PBT infrastructure in Lean. I did my undergrad at [Penn](https://www.cis.upenn.edu/), where I worked on PBT research, advised by [Harry Goldstein](https://harrisongoldste.in) & [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/) in the [PLClub](https://www.cis.upenn.edu/~plclub/) (Penn's PL group). Before grad school, I worked in industry for a year as a data engineer. 
 
 Outside of CS, I enjoy [playing the pipe organ](https://www.youtube.com/watch?v=smfkCx4SpsE)! I study organ performance with [Annette Richards](https://music.cornell.edu/annette-richards) and [Amanda Mole](https://www.amandamole.com).
@@ -21,7 +20,7 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 ## Research
 
 - Underpinning Property-Based Testing             
-  Ernest Ng, [Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://katherine-hough.github.io), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
+  Ernest Ng, [Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://www.linkedin.com/in/katherine-hough-84b25a331/), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
   Under submission
 
 - Compiling Imperative Hardware Protocol Specifications to Hardware                  
@@ -33,24 +32,23 @@ Ernest Ng, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](
 Under submission [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
 <small>An early version of this work appeared at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf)</small>
 
-
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
-Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin Pierce](https://www.cis.upenn.edu/~bcpierce/)       
+Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)       
 [OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>             
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>                
 
-## Talks
+## Invited Talks and Presentations
 - **Specifying Hardware Communication as Programs** [(slides)](./pdfs/protocols_csl_FINAL.pdf)                                                         
-  + [MIT FLAME Lab Seminar](https://flame.csail.mit.edu) (Invited), July 2026
+  + [MIT FLAME Lab Seminar](https://flame.csail.mit.edu), July 2026
   + [YArch (Young Architect Workshop) @ ISCA '26](https://yarch2026.epfl.ch), June 2026
-  + [EPFL Programming Languages & Formal Methods Seminar](https://plfm.epfl.ch/seminar/) (Invited), May 2026
+  + [EPFL Programming Languages & Formal Methods Seminar](https://plfm.epfl.ch/seminar/), May 2026
   + [NJPLS (New Jersey Programming Languages & Systems Seminar)](https://njpls.org/may2026.html), May 2026
 
 - **Chamelean: Property-Based Testing for Lean via Metaprogramming** [(slides)](./pdfs/chamelean_public_slides.pdf) (Work done at AWS)
-  + [Cornell Programming Languages Discussion Group](https://pl.cs.cornell.edu/pldg/2026sp/), September 2025
+  + [Cornell Programming Languages Seminar](https://pl.cs.cornell.edu/pldg/2026sp/), September 2025
 
 - **Mica: Automated Differential Testing for OCaml Modules** [(slides)](./pdfs/mica_bloomberg_slides.pdf)
-  + Bloomberg OCaml Developers Seminar (Invited), September 2024 
+  + Bloomberg OCaml Developers Seminar, September 2024 
   + [OCaml Workshop @ ICFP '24](https://icfp24.sigplan.org/home/ocaml-2024#About), September 2024
   + [ICFP '23 Student Research Competition](https://icfp23.sigplan.org/track/icfp-2023-student-research-competition), September 2023
 
