@@ -31,7 +31,7 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 - Specifying Hardware Communication as Programs                                                         
 Ernest Ng, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
 Under submission [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
-(An early version of this work appeared at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf))
+<small>An early version of this work appeared at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf)</small>
 
 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
