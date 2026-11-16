@@ -32,6 +32,10 @@ Ernest Ng, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](
 Under submission [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
 <small>An early version of this work appeared at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf)</small>
 
+- Generating Well-Typed Strata Programs, Correctly (Experience Report)                               
+  Ernest Ng, [Joshua M. Cohen](https://joscoh.github.io), [Michael Hicks](https://mhicks.me)                   
+  Under submission
+
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
 Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)       
 [OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>             
