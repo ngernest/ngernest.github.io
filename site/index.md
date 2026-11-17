@@ -21,7 +21,7 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 
 - Underpinning Property-Based Testing             
   Ernest Ng, [Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://www.linkedin.com/in/katherine-hough-84b25a331/), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
-  Under submission
+  Under submission [[arXiv]](https://arxiv.org/pdf/2611.21058)     
 
 - Compiling Imperative Hardware Protocol Specifications to Hardware                  
   [Nikil V. Shyamsunder](https://nikilshyamsunder.com), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)             
