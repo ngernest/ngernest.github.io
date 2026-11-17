@@ -20,24 +20,24 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 ## Research
 
 - Underpinning Property-Based Testing             
-  Ernest Ng, [Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://www.linkedin.com/in/katherine-hough-84b25a331/), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
+  **Ernest Ng**, [Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://www.linkedin.com/in/katherine-hough-84b25a331/), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
   Under submission [[arXiv]](https://arxiv.org/pdf/2611.21058)     
 
 - Compiling Imperative Hardware Protocol Specifications to Hardware                  
-  [Nikil V. Shyamsunder](https://nikilshyamsunder.com), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)             
+  [Nikil V. Shyamsunder](https://nikilshyamsunder.com), **Ernest Ng**, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)             
   Under submission [[arXiv]](https://arxiv.org/pdf/2611.19533)
 
 - Specifying Hardware Communication as Programs                                                         
-Ernest Ng, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
+**Ernest Ng**, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
 Under submission [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)</small>      
 <small>An early version of this work appeared at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf)</small>
 
 - Generating Well-Typed Strata Programs, Correctly (Experience Report)                               
-  Ernest Ng, [Joshua M. Cohen](https://joscoh.github.io), [Michael Hicks](https://mhicks.me)                   
+  **Ernest Ng**, [Joshua M. Cohen](https://joscoh.github.io), [Michael Hicks](https://mhicks.me)                   
   Under submission
 
 - [Mica: Automated Differential Testing for OCaml Modules](./pdfs/ocaml24_mica.pdf)      
-Ernest Ng, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)       
+**Ernest Ng**, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)       
 [OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) <small>[[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)</small>             
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>                
 
@@ -64,7 +64,7 @@ Have we met before? I'd love to hear from you! I was at the following:
 <tr>
   <th>Conferences</th>
   <th>Workshops</th>
-  <th>Summer schools</th>
+  <th>Summer Schools</th>
 </tr>
 <tr>
   <td>
