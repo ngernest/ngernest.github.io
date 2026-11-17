@@ -25,7 +25,7 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 
 - Compiling Imperative Hardware Protocol Specifications to Hardware                  
   [Nikil V. Shyamsunder](https://nikilshyamsunder.com), Ernest Ng, [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)             
-  Under submission
+  Under submission [[arXiv]](https://arxiv.org/pdf/2611.19533)
 
 - Specifying Hardware Communication as Programs                                                         
 Ernest Ng, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
