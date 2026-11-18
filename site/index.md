@@ -20,7 +20,7 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 ## Research
 
 - Underpinning Property-Based Testing             
-  **Ernest Ng**, [Segev Elazar Mittelman](https://www.linkedin.com/in/segevem/), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://www.linkedin.com/in/katherine-hough-84b25a331/), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
+  **Ernest Ng**, [Segev Elazar Mittelman](https://segevem.github.io), [Joshua M. Cohen](https://joscoh.github.io), [Katherine Hough](https://www.linkedin.com/in/katherine-hough-84b25a331/), [Michael Hicks](https://mhicks.me), [Harrison Goldstein](https://harrisongoldste.in)                        
   Under submission [[arXiv]](https://arxiv.org/pdf/2611.21058) [[Code]](https://github.com/hgoldstein95/basalt)                 
 
 - Compiling Imperative Hardware Protocol Specifications to Hardware                  
