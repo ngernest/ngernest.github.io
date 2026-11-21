@@ -1,4 +1,4 @@
-<img src="/images/headshot_2020.jpg" alt="Ernest Ng" style="float:right; width:250px; height:250px; max-width:100%; object-fit:cover; margin: 0 0 20px 20px"/>
+<img src="/images/headshot_2020.jpg" alt="Ernest Ng" class="headshot"/>
 
 ## About me
 **Email**: [eyn5@cs.cornell.edu](mailto:eyn5@cornell.edu)  

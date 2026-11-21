@@ -285,3 +285,24 @@ pre code
 {
     color: inherit;
 }
+
+/** Headshot on the home page */
+
+.headshot
+{
+    float: right;
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    margin: 0 0 20px 20px;
+}
+
+@media (max-width: 600px)
+{
+    .headshot
+    {
+        width: 35vw;
+        height: 35vw;
+        margin: 0 0 12px 12px;
+    }
+}
