@@ -1,8 +1,8 @@
+<img src="/images/headshot_2020.jpg" alt="Ernest Ng" style="float:right; width:250px; height:250px; max-width:100%; object-fit:cover; margin: 0 0 20px 20px"/>
+
 ## About me
 **Email**: [eyn5@cs.cornell.edu](mailto:eyn5@cornell.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)         
-
-<img src="/images/new_headshot.jpg" alt="Ernest Ng" align="right" style="width:20vw; height:auto; max-width:75%; max-height: 75%; margin-left: 20px; margin-bottom: 30px"/> 
 
 Hi! I'm a Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Capra](https://capra.cs.cornell.edu) lab. My research interests are broadly in programming languages, systems and computer architecture.
  
