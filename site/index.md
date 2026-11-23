@@ -1,7 +1,7 @@
 <img src="/images/headshot_2020.jpg" alt="Ernest Ng" class="headshot"/>
 
 ## About me
-**Email**: [eyn5@cs.cornell.edu](mailto:eyn5@cornell.edu)  
+**Email**: [eyn5@cornell.edu](mailto:eyn5@cornell.edu)  
 **GitHub**: [`ngernest`](https://github.com/ngernest)         
 
 Hi! I'm a Computer Science PhD student at [Cornell](https://www.cs.cornell.edu), advised by [Adrian Sampson](https://www.cs.cornell.edu/~asampson/) in the [Capra](https://capra.cs.cornell.edu) lab. My research interests are broadly in programming languages, systems and computer architecture.
