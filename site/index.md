@@ -34,7 +34,7 @@ Under submission [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://gi
 
 - Generating Well-Typed Strata Programs, Correctly (Experience Report)            
   **Ernest Ng**, [Joshua M. Cohen](https://joscoh.github.io), [Michael Hicks](https://mhicks.me)                   
-  Under submission [[PDF]](./pdfs/fpbt27_strata_generators_paper.pdf) [[Code]](https://github.com/strata-org/Strata-Generators)        
+  [FPBT 2027](https://popl27.sigplan.org/home/fpbt-2027) [[PDF]](./pdfs/fpbt27_strata_generators_paper.pdf) [[Code]](https://github.com/strata-org/Strata-Generators)        
 
 - Mica: Automated Differential Testing for OCaml Modules                  
 **Ernest Ng**, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)       
