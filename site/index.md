@@ -30,15 +30,15 @@ Here's my [resume](./pdfs/resume.pdf) and a list of [projects I've done](./proje
 - Specifying Hardware Communication as Programs                                                         
 **Ernest Ng**, [Nikil V. Shyamsunder](https://nikilshyamsunder.com), [Francis Pham](https://fpham0701.github.io), [Adrian Sampson](https://www.cs.cornell.edu/~asampson/), [Kevin Laeufer](https://kevinlaeufer.com)            
 Under submission [[arXiv]](https://arxiv.org/pdf/2606.13659) [[Code]](https://github.com/cucapra/protocols)      
-<small>An early version of this work appeared at [YArch @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf)</small>
+<small>An early version of this work appeared at the [YArch Workshop @ ISCA '26](https://yarch2026.epfl.ch/) [[Poster]](/pdfs/yarch2026_poster.pdf)</small>
 
 - Generating Well-Typed Strata Programs, Correctly (Experience Report)            
   **Ernest Ng**, [Joshua M. Cohen](https://joscoh.github.io), [Michael Hicks](https://mhicks.me)                   
-  [FPBT 2027](https://popl27.sigplan.org/home/fpbt-2027) [[PDF]](./pdfs/fpbt27_strata_generators_paper.pdf) [[Code]](https://github.com/strata-org/Strata-Generators)        
+  [FPBT Workshop @ POPL 2027](https://popl27.sigplan.org/home/fpbt-2027) [[PDF]](./pdfs/fpbt27_strata_generators_paper.pdf) [[Code]](https://github.com/strata-org/Strata-Generators)        
 
 - Mica: Automated Differential Testing for OCaml Modules                  
 **Ernest Ng**, [Harrison Goldstein](https://harrisongoldste.in), [Benjamin C. Pierce](https://www.cis.upenn.edu/~bcpierce/)       
-[OCaml Workshop 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) [[PDF]](./pdfs/ocaml24_mica.pdf) [[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)      
+[OCaml Workshop @ ICFP 2024](https://icfp24.sigplan.org/home/ocaml-2024#About) [[PDF]](./pdfs/ocaml24_mica.pdf) [[Slides]](/pdfs/mica_ocaml24_slides.pdf) [[Talk Video]](https://www.youtube.com/watch?v=dQFjZI19Jd8) [[Code]](https://github.com/ngernest/mica)      
 <small>Received 2nd place at the ICFP 2023 SRC ([poster](/pdfs/mica_icfp23src_poster.pdf))</small>                
 
 ## Invited Talks and Presentations
